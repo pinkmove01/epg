@@ -1,15 +1,15 @@
-name: EPG 병합 자동 갱신
+name: EPG·M3U 자동 갱신
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # 하루 4회 (0, 6, 12, 18시 UTC = 한국시간 9, 15, 21, 3시)
-  workflow_dispatch:          # 수동 실행 버튼
+    - cron: '0 * * * *'        # 매시 정각(UTC). SBS 토큰 수명이 2시간이라 1시간 주기로 돈다
+  workflow_dispatch:            # 수동 실행 버튼
 
 permissions:
-  contents: write             # 커밋·푸시 권한
+  contents: write
 
 jobs:
-  merge:
+  refresh:
     runs-on: ubuntu-latest
     steps:
       - name: 저장소 체크아웃
@@ -20,7 +20,10 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: 병합 실행
+      - name: M3U 스트림 주소 갱신 (SBS·KBS 만료 토큰 교체)
+        run: python update-m3u.py
+
+      - name: EPG 병합
         run: python merge.py
 
       - name: gzip 압축
@@ -30,10 +33,10 @@ jobs:
         run: |
           git config user.name  "epg-bot"
           git config user.email "actions@github.com"
-          git add epg-kr-merged.xml epg-kr-merged.xml.gz
+          git add epg-kr-merged.xml epg-kr-merged.xml.gz koreatv-final.m3u
           if git diff --cached --quiet; then
             echo "변경 없음 - 커밋 생략"
           else
-            git commit -m "EPG 갱신 $(date -u +'%Y-%m-%d %H:%M' UTC)"
+            git commit -m "자동 갱신 $(date -u +'%Y-%m-%d %H:%M' UTC)"
             git push
           fi
