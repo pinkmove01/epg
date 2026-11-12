@@ -1,0 +1,39 @@
+name: EPG 병합 자동 갱신
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # 하루 4회 (0, 6, 12, 18시 UTC = 한국시간 9, 15, 21, 3시)
+  workflow_dispatch:          # 수동 실행 버튼
+
+permissions:
+  contents: write             # 커밋·푸시 권한
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: 파이썬 준비
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 병합 실행
+        run: python merge.py
+
+      - name: gzip 압축
+        run: gzip -9 -kf epg-kr-merged.xml
+
+      - name: 변경 시에만 커밋·푸시
+        run: |
+          git config user.name  "epg-bot"
+          git config user.email "actions@github.com"
+          git add epg-kr-merged.xml epg-kr-merged.xml.gz
+          if git diff --cached --quiet; then
+            echo "변경 없음 - 커밋 생략"
+          else
+            git commit -m "EPG 갱신 $(date -u +'%Y-%m-%d %H:%M' UTC)"
+            git push
+          fi
