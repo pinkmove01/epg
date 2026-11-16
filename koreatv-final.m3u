@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/pinkmove01/epg/main/epg-kr-merged.xml" x-tvg-url="https://raw.githubusercontent.com/pinkmove01/epg/main/epg-kr-merged.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/pinkmove01/epg/main/epg-kr-merged.xml,https://raw.githubusercontent.com/kenpark76/kenpark76.github.io/refs/heads/main/koreatvEPG.xml" x-tvg-url="https://raw.githubusercontent.com/pinkmove01/epg/main/epg-kr-merged.xml,https://raw.githubusercontent.com/kenpark76/kenpark76.github.io/refs/heads/main/koreatvEPG.xml"
 
 #EXTINF:-1 tvg-id="814592.naver" tvg-logo="https://backup.760515.xyz/logo/SBS.png",SBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
