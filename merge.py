@@ -10,6 +10,10 @@ SRC_B = "https://iptv-epg.org/files/epg-kr.xml"                                 
 M3U   = "koreatv-final.m3u"   # 저장소 안 M3U 경로
 OUT   = "epg-kr-merged.xml"   # 생성될 병합 EPG
 
+# 껍데기 편성. 이 제목은 '편성 있음'으로 세지 않는다.
+NO_DATA = ("no data", "n/a")
+
+
 def fetch(url):
     req = urllib.request.Request(url, headers=UA)
     with urllib.request.urlopen(req, timeout=90) as r:
@@ -18,20 +22,33 @@ def fetch(url):
         data = gzip.decompress(data)
     return data.decode("utf-8", "replace")
 
+
 def parse(xml):
     chans = {}
     for m in re.finditer(r'<channel\b[^>]*id="([^"]*)"[^>]*>(.*?)</channel>', xml, re.S):
         cid = html.unescape(m.group(1))
         dns = [html.unescape(x) for x in re.findall(r"<display-name[^>]*>(.*?)</display-name>", m.group(2), re.S)]
         chans.setdefault(cid, dns or [cid])
-    progs = {}
+
+    progs, skipped = {}, 0
     for m in re.finditer(r'<programme\b[^>]*channel="([^"]*)"[^>]*>.*?</programme>', xml, re.S):
-        progs.setdefault(html.unescape(m.group(1)), []).append(m.group(0).strip())
+        block = m.group(0)
+        t = re.search(r'<title[^>]*>(.*?)</title>', block, re.S)
+        title = html.unescape(t.group(1)).strip() if t else ""
+        if title.lower() in NO_DATA:
+            skipped += 1
+            continue
+        progs.setdefault(html.unescape(m.group(1)), []).append(block.strip())
+
+    if skipped:
+        print("  [parse] No Data 편성 %d건 제외" % skipped)
     return chans, progs
+
 
 def esc(s):
     return (s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
              .replace('"', "&quot;").replace("'", "&apos;"))
+
 
 def main():
     m3u = open(M3U, encoding="utf-8").read()
