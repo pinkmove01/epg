@@ -1,12 +1,13 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/kenpark76/kenpark76.github.io/refs/heads/main/koreatvEPG.xml" x-tvg-url="https://raw.githubusercontent.com/kenpark76/kenpark76.github.io/refs/heads/main/koreatvEPG.xml"
 
+
+#EXTINF:-1 tvg-id="814592.naver" tvg-logo="https://backup.760515.xyz/logo/SBS.png",SBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="814592.naver" tvg-logo="https://backup.760515.xyz/logo/SBS.png",SBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTQ5NzgwMDIsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjdkODNiYmQwLTJjNTYtNDk1My1hYTQzLWJmOTYyYWU5NWYzMSIsImlhdCI6MTc5NDk3MDgwMn0.VSatazbb2nle7GApLh_AMmka4LzE79z78CKMauW8lTw
-#EXTINF:-1 tvg-id="814592.naver" tvg-logo="https://backup.760515.xyz/logo/SBS.png",SBS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-http://123.140.197.22/stream/1/play.m3u8
 
 #EXTINF:-1 tvg-id="814582.naver" tvg-logo="https://backup.760515.xyz/logo/KBS2.png",KBS2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
@@ -18,10 +19,10 @@ https://backup.760515.xyz/playlist/KBS1-playlist.m3u8
 
 #EXTINF:-1 tvg-id="814588.naver" tvg-logo="https://iptv-epg.org/images/Xz-7yCscLbwHSthOwi2o9D6tZORZOy0ZhidiUGJvi0-vo1ZyRx7QbxZ2A3D11gbyjRgTErzxCscPq_ZRazVXK2S2tPrl5BZ2dmXW",MBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://backup.760515.xyz/playlist/MBC-playlist.m3u8
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="814588.naver" tvg-logo="https://iptv-epg.org/images/Xz-7yCscLbwHSthOwi2o9D6tZORZOy0ZhidiUGJvi0-vo1ZyRx7QbxZ2A3D11gbyjRgTErzxCscPq_ZRazVXK2S2tPrl5BZ2dmXW",MBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+https://backup.760515.xyz/playlist/MBC-playlist.m3u8
 
 #EXTINF:-1 tvg-id="C00551.tving" tvg-logo="https://pjytv.760515.xyz/logo/tvN.png",tvN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
@@ -29,24 +30,25 @@ https://backup.760515.xyz/playlist/tvN-playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV조선.kr" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN.png",TV CHOSUN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://backup.760515.xyz/playlist/TV%20CHOSUN-playlist.m3u8
+https://gslb-fastcdn.uplus.co.kr/tvchosun.stream/tsmux.noll_master.m3u8
 #EXTINF:-1 tvg-id="TV조선.kr" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN.png",TV CHOSUN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://gslb-fastcdn.uplus.co.kr/tvchosun.stream/tsmux.noll_master.m3u8
+https://backup.760515.xyz/playlist/TV%20CHOSUN-playlist.m3u8
 
-#EXTINF:-1 tvg-id="C01582.tving" tvg-logo="https://pjytv.760515.xyz/logo/JTBC.png",JTBC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://backup.760515.xyz/playlist/JTBC-playlist.m3u8
 #EXTINF:-1 tvg-id="C01582.tving" tvg-logo="https://pjytv.760515.xyz/logo/JTBC.png",JTBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://gslb-fastcdn.uplus.co.kr/jtbc.stream/tsmux.noll_master.m3u8
+#EXTINF:-1 tvg-id="C01582.tving" tvg-logo="https://pjytv.760515.xyz/logo/JTBC.png",JTBC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/JTBC-playlist.m3u8
 
 #EXTINF:-1 tvg-id="C01583.tving" tvg-logo="https://pjytv.760515.xyz/logo/채널A.png",채널A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://backup.760515.xyz/playlist/%EC%B1%84%EB%84%90A-playlist.m3u8
+https://gslb-fastcdn.uplus.co.kr/channelA_new.stream/tsmux.noll_master.m3u8
 #EXTINF:-1 tvg-id="C01583.tving" tvg-logo="https://pjytv.760515.xyz/logo/채널A.png",채널A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://gslb-fastcdn.uplus.co.kr/channelA_new.stream/tsmux.noll_master.m3u8
+https://backup.760515.xyz/playlist/%EC%B1%84%EB%84%90A-playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="C15741.tving" tvg-logo="https://pjytv.760515.xyz/logo/JTBC2.png",JTBC2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
@@ -56,12 +58,14 @@ https://backup.760515.xyz/playlist/JTBC2-playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/JTBC4-playlist.m3u8
 
-#EXTINF:-1 tvg-id="C00585.tving" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN 2.png",TV CHOSUN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://backup.760515.xyz/playlist/TV%20CHOSUN%202-playlist.m3u8
+
 #EXTINF:-1 tvg-id="C00585.tving" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN 2.png",TV CHOSUN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTINF:-1 tvg-id="C00585.tving" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN 2.png",TV CHOSUN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/TV%20CHOSUN%202-playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="C01141.tving" tvg-logo="https://pjytv.760515.xyz/logo/tvN SHOW.png",tvN SHOW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
@@ -83,12 +87,14 @@ https://backup.760515.xyz/playlist/%EC%B1%84%EB%84%90A%ED%94%8C%EB%9F%AC%EC%8A%A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://jmp2.uk/stvp-KRBD2400001XD
 
-#EXTINF:-1 tvg-id="C00708.tving" tvg-logo="https://pjytv.760515.xyz/logo/MBN.png",MBN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://backup.760515.xyz/playlist/MBN-playlist.m3u8
+
 #EXTINF:-1 tvg-id="C00708.tving" tvg-logo="https://pjytv.760515.xyz/logo/MBN.png",MBN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://gslb-fastcdn.uplus.co.kr/mbn.stream/tsmux.noll_master.m3u8
+#EXTINF:-1 tvg-id="C00708.tving" tvg-logo="https://pjytv.760515.xyz/logo/MBN.png",MBN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/MBN-playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="C01723.tving" tvg-logo="https://pjytv.760515.xyz/logo/연합뉴스TV.png",연합뉴스TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
