@@ -2,7 +2,7 @@ name: PJY koreatv.json change detect
 
 on:
   schedule:
-    - cron: '*/5 * * * *'   # 5분마다 폴링 (GitHub 지연 감안)
+    - cron: '7,22,37,52 * * * *'   # 15분 간격, 정각 회피 (GitHub 지연/누락 완화)
   workflow_dispatch:
 
 permissions:
@@ -67,3 +67,4 @@ jobs:
           git add .pjy-hash
           git commit -m "pjy koreatv.json changed @ $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
           git push
+
