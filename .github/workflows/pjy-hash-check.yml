@@ -1,0 +1,69 @@
+name: PJY koreatv.json change detect
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'   # 5분마다 폴링 (GitHub 지연 감안)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pjy-hash-check
+  cancel-in-progress: false
+
+jobs:
+  check-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download pjy koreatv.json
+        id: dl
+        run: |
+          URL="https://raw.githubusercontent.com/kenpark76/kenpark76.github.io/main/koreatv.json"
+          ok=0
+          for i in 1 2 3; do
+            if curl -fsSL --retry 3 --retry-delay 5 -o /tmp/koreatv.json "$URL"; then
+              ok=1
+              break
+            fi
+            sleep 10
+          done
+          if [ "$ok" -ne 1 ]; then
+            echo "download_failed=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          echo "download_failed=false" >> "$GITHUB_OUTPUT"
+
+      - name: Compare sha256 hash
+        if: steps.dl.outputs.download_failed == 'false'
+        id: hash
+        run: |
+          NEW=$(sha256sum /tmp/koreatv.json | awk '{print $1}')
+          OLD=""
+          if [ -f .pjy-hash ]; then
+            OLD=$(cat .pjy-hash)
+          fi
+          echo "new_hash=$NEW" >> "$GITHUB_OUTPUT"
+          echo "old_hash=$OLD" >> "$GITHUB_OUTPUT"
+          if [ "$NEW" != "$OLD" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "pjy koreatv.json CHANGED"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "pjy koreatv.json unchanged"
+          fi
+
+      - name: Save new hash and commit
+        if: steps.hash.outputs.changed == 'true'
+        run: |
+          echo "${{ steps.hash.outputs.new_hash }}" > .pjy-hash
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .pjy-hash
+          git commit -m "pjy koreatv.json changed @ $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          git push
