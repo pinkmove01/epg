@@ -83,10 +83,10 @@ https://backup.760515.xyz/playlist/tvN%20STORY-playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/%EC%B1%84%EB%84%90A%ED%94%8C%EB%9F%AC%EC%8A%A4-playlist.m3u8
 
-#EXTINF:-1 tvg-id="C00593.tving" tvg-logo="https://raw.githubusercontent.com/kenpark76/kenpark76.github.io/refs/heads/main/logo/YTN.png",YTN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://jmp2.uk/stvp-KRBD2400001XD
 
+#EXTINF:-1 tvg-id="C00579.tving" tvg-logo="https://pjytv.760515.xyz/logo/Mnet.png",Mnet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/Mnet-playlist.m3u8
 
 #EXTINF:-1 tvg-id="C00708.tving" tvg-logo="https://pjytv.760515.xyz/logo/MBN.png",MBN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
@@ -95,18 +95,32 @@ https://gslb-fastcdn.uplus.co.kr/mbn.stream/tsmux.noll_master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/MBN-playlist.m3u8
 
+#EXTINF:-1 tvg-id="라이프타임.kr" tvg-logo="https://pjytv.760515.xyz/logo/LIFETIME.png",LIFETIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/LIFETIME-playlist.m3u8
+
+#EXTINF:-1 tvg-id="C00544.tving" tvg-logo="https://pjytv.760515.xyz/logo/중화TV.png",중화TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/%EC%A4%91%ED%99%94TV-playlist.m3u8
+
+#EXTINF:-1 tvg-id="C17341.tving" tvg-logo="https://pjytv.760515.xyz/logo/히스토리.png",히스토리
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-playlist.m3u8
 
 #EXTINF:-1 tvg-id="C01723.tving" tvg-logo="https://pjytv.760515.xyz/logo/연합뉴스TV.png",연합뉴스TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4TV-playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="C00593.tving" tvg-logo="https://raw.githubusercontent.com/kenpark76/kenpark76.github.io/refs/heads/main/logo/YTN.png",YTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://jmp2.uk/stvp-KRBD2400001XD
+
+
 #EXTINF:-1 tvg-id="C17142.tving" tvg-logo="https://pjytv.760515.xyz/logo/MBN 플러스.png",MBN 플러스
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/MBN%20%ED%94%8C%EB%9F%AC%EC%8A%A4-playlist.m3u8
 
-#EXTINF:-1 tvg-id="C00579.tving" tvg-logo="https://pjytv.760515.xyz/logo/Mnet.png",Mnet
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://backup.760515.xyz/playlist/Mnet-playlist.m3u8
 
 #EXTINF:-1 tvg-id="814763.naver" tvg-logo="https://backup.760515.xyz/logo/KBS드라마.png",KBS드라마
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
