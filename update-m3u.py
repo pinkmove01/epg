@@ -3,6 +3,7 @@
 - 갱신 대상 호스트: tvlive.sbs.co.kr (2시간 JWT), *.gscdn.kbs.co.kr (CloudFront Policy 서명)
 - 만료가 없는 주소(backup.760515.xyz, ebsonair, imbc, ottera 등)는 그대로 둔다.
 - pjy 원본(koreatv.json)에만 있는 신규 채널은 m3u 끝에 자동 추가한다.
+- 중국(中国-*)·영어(ENGLISH) 채널과 죽은 주소(vod.ikbc.co.kr)는 한국 전용 필터로 제거한다.
 """
 import json, re, base64, time, urllib.request
 
@@ -54,6 +55,41 @@ def exp_of(url):
     return None
 
 
+def filter_korea_only(out):
+    """중국(中国-*)·영어(ENGLISH) 채널과 죽은 주소(vod.ikbc.co.kr)를 걸러낸다."""
+    keep, removed, block = [], [], []
+
+    def flush():
+        if not block:
+            return
+        e = block[0]
+        g = re.search(r'group-title="([^"]*)"', e)
+        group = g.group(1) if g else ""
+        name = e.rsplit(",", 1)[-1].strip()
+        url = next((l for l in block[1:] if l and not l.startswith("#")), "")
+        if "vod.ikbc.co.kr" in url:
+            removed.append((name, "dead-url"))
+        elif group.startswith("中国") or group == "ENGLISH":
+            removed.append((name, group or "?"))
+        else:
+            keep.extend(block)
+            keep.append("")
+        block.clear()
+
+    for ln in out:
+        if ln.startswith("#EXTINF"):
+            flush()
+        block.append(ln)
+    flush()
+    if keep and keep[-1] == "":
+        keep.pop()
+    for n, g in removed:
+        print(f"  [제거] [{g}] {n}")
+    kept_n = sum(1 for l in keep if l.startswith("#EXTINF"))
+    print(f"한국 전용 필터: {len(removed)}개 제거, {kept_n}개 남음")
+    return keep
+
+
 def append_new_channels(out, raw):
     """pjy 원본에만 있는 채널을 m3u 끝에 덧붙인다. (기존 형식: EXTINF / EXTVLCOPT / URL)"""
     have = set()
@@ -69,6 +105,8 @@ def append_new_channels(out, raw):
             continue
         logo = (e.get("logo") or "").replace('"', "")
         group = (e.get("group") or "").replace('"', "")
+        if group.startswith("中国") or group == "ENGLISH":
+            continue                       # 중국·영어 채널은 아예 추가하지 않음
         hdr = e.get("headers") or {}
         ua = (hdr.get("user-agent") or hdr.get("User-Agent") or "")
         added.append(f'#EXTINF:-1 tvg-id="" tvg-logo="{logo}" group-title="{group}",{name}')
@@ -135,6 +173,7 @@ def main():
         out.extend(lines[i:j]); out.append(new)
         replaced.append((name, oe, ne)); i = j + 1
 
+    out = filter_korea_only(out)
     added_n = append_new_channels(out, raw)
 
     open(M3U, "w", encoding="utf-8").write("\n".join(out).rstrip("\n") + "\n")
