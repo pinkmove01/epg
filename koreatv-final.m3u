@@ -83,6 +83,9 @@ https://backup.760515.xyz/playlist/tvN%20STORY-playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/%EC%B1%84%EB%84%90A%ED%94%8C%EB%9F%AC%EC%8A%A4-playlist.m3u8
 
+#EXTINF:-1 tvg-id="라이프타임.kr" tvg-logo="https://pjytv.760515.xyz/logo/LIFETIME.png",LIFETIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/LIFETIME-playlist.m3u8
 
 #EXTINF:-1 tvg-id="C00579.tving" tvg-logo="https://pjytv.760515.xyz/logo/Mnet.png",Mnet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
@@ -95,9 +98,6 @@ https://gslb-fastcdn.uplus.co.kr/mbn.stream/tsmux.noll_master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/MBN-playlist.m3u8
 
-#EXTINF:-1 tvg-id="라이프타임.kr" tvg-logo="https://pjytv.760515.xyz/logo/LIFETIME.png",LIFETIME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://backup.760515.xyz/playlist/LIFETIME-playlist.m3u8
 
 #EXTINF:-1 tvg-id="C00544.tving" tvg-logo="https://pjytv.760515.xyz/logo/중화TV.png",중화TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
@@ -277,6 +277,23 @@ https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
 #EXTINF:-1 tvg-id="C00772.tving-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png",EBS 1TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="애니박스.kr" tvg-logo="https://pjytv.760515.xyz/logo/ANIBOX.png",ANIBOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/ANIBOX-playlist.m3u8
+
+#EXTINF:-1 tvg-id="C04042.tving" tvg-logo="https://pjytv.760515.xyz/logo/애니맥스.png",애니맥스
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/%EC%95%A0%EB%8B%88%EB%A7%A5%EC%8A%A4-playlist.m3u8
+
+#EXTINF:-1 tvg-id="C06941.tving" tvg-logo="https://pjytv.760515.xyz/logo/투니버스.png",투니버스
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/%ED%88%AC%EB%8B%88%EB%B2%84%EC%8A%A4-playlist.m3u8
+
+#EXTINF:-1 tvg-id="kr030" tvg-logo="https://backup.760515.xyz/logo/SBS KPOP.png",SBS KPOP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://tvlive.sbs.co.kr/sbskpop/sbskpop1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTA3NTUyNzcsInBhdGgiOiIvc2Jza3BvcDEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI2YWNiOTJkNC05OGE0LTQ3NmUtODZlMC0wM2QzOTEwYjMwMmYiLCJpYXQiOjE3OTA3NDgwNzd9.8VWWfCCv2KNbqSzOX2r7gSnQAH7VeDeHijaL2lysBKk
 
 #EXTINF:-1 tvg-id="2438226.naver-2" tvg-logo="https://i.imgur.com/62oo8Bx.png",EBS Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
