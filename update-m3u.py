@@ -91,4 +91,63 @@ def main():
     try:
         raw = json.loads(fetch(SRC))
     except Exception as e:
-        print(f"
+        print(f"[SKIP] 원본 JSON 로드 실패: {e}")
+        return
+
+    fresh = {}
+    for e in raw:
+        name = (e.get("name") or e.get("title") or "").strip()
+        uris = e.get("uris") or e.get("urls") or []
+        if name and uris:
+            fresh[name] = uris[0]
+
+    lines = open(M3U, encoding="utf-8").read().splitlines()
+    out, replaced, held, unmatched = [], [], [], []
+    i = 0
+    while i < len(lines):
+        ln = lines[i]
+        if not ln.startswith("#EXTINF"):
+            out.append(ln); i += 1; continue
+
+        name = ln.rsplit(",", 1)[-1].strip()
+        j = i + 1
+        while j < len(lines) and lines[j].startswith("#"):
+            j += 1
+        url = lines[j] if j < len(lines) else ""
+
+        if not any(h in url for h in EXPIRING):
+            out.extend(lines[i:j + 1]); i = j + 1; continue
+
+        new = fresh.get(name)
+        if not new or not any(h in new for h in EXPIRING):
+            unmatched.append(name)
+            out.extend(lines[i:j + 1]); i = j + 1; continue
+
+        oe, ne = exp_of(url), exp_of(new)
+        if ne is not None and ne < now:      # 원본 토큰도 이미 만료 -> 손대지 않음
+            held.append((name, oe, ne))
+            out.extend(lines[i:j + 1]); i = j + 1; continue
+        worth = (ne is None) or (oe is None) or (ne > oe)
+        if not worth:
+            held.append((name, oe, ne))
+            out.extend(lines[i:j + 1]); i = j + 1; continue
+
+        out.extend(lines[i:j]); out.append(new)
+        replaced.append((name, oe, ne)); i = j + 1
+
+    added_n = append_new_channels(out, raw)
+
+    open(M3U, "w", encoding="utf-8").write("\n".join(out).rstrip("\n") + "\n")
+
+    for n, oe, ne in replaced:
+        left = f"+{int((ne - now) / 60)}분" if ne else "만료시각 미상"
+        print(f"  교체 {n}: {oe} -> {ne} ({left})")
+    for n, oe, ne in held:
+        print(f"  [보류] {n}: 원본 토큰도 갱신 안 됨 (현재 {oe} / 원본 {ne})")
+    if unmatched:
+        print("  [원본에 없음] " + ", ".join(unmatched))
+    print(f"URL 교체: {len(replaced)} / 신규 채널: {added_n}")
+
+
+if __name__ == "__main__":
+    main()
