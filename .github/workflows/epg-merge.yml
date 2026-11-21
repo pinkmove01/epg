@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: '13,43 * * * *'    # 매시 13분·43분(UTC). 정각 혼잡 회피 / SBS 토큰 수명 2시간 대응
   workflow_dispatch:            # 수동 실행 버튼
+  push:
+    branches: [ main ]
+    paths-ignore:
+      - 'epg-kr-merged.xml'
+      - 'epg-kr-merged.xml.gz'
+      - 'koreatv-final.m3u'
 
 permissions:
   contents: write
@@ -118,4 +124,3 @@ jobs:
             echo "| 현재 해시 | ${{ steps.hash.outputs.new_hash }} |"
             echo "| pjy 변경 | ${{ steps.hash.outputs.changed }} |"
           } >> "$GITHUB_STEP_SUMMARY"
-
