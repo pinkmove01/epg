@@ -2,7 +2,7 @@ name: EPG·M3U 자동 갱신 (+ pjy 변경 감지)
 
 on:
   schedule:
-    - cron: '0 * * * *'        # 매시 정각(UTC). SBS 토큰 수명이 2시간이라 1시간 주기로 돈다
+    - cron: '13,43 * * * *'    # 매시 13분·43분(UTC). 정각 혼잡 회피 / SBS 토큰 수명 2시간 대응
   workflow_dispatch:            # 수동 실행 버튼
 
 permissions:
@@ -118,3 +118,4 @@ jobs:
             echo "| 현재 해시 | ${{ steps.hash.outputs.new_hash }} |"
             echo "| pjy 변경 | ${{ steps.hash.outputs.changed }} |"
           } >> "$GITHUB_STEP_SUMMARY"
+
