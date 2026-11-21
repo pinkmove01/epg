@@ -5,6 +5,10 @@
 
 #EXTINF:-1 tvg-id="814592.naver" tvg-logo="https://backup.760515.xyz/logo/SBS.png",SBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="814592.naver" tvg-logo="https://backup.760515.xyz/logo/SBS.png",SBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTUyNTg4MDIsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImZmNjNlN2VmLWRjZTQtNDg5NC1hNGE5LTcyMTIxNWUyZDE2NSIsImlhdCI6MTc5NTI1MTYwMn0.ewmacEbRJ1xF_WwwpI2zlw9GZsOYxyN_IHkXzAr3Faw
 
 
