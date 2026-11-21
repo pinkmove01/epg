@@ -1,6 +1,5 @@
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/kenpark76/kenpark76.github.io/refs/heads/main/koreatvEPG.xml" x-tvg-url="https://raw.githubusercontent.com/kenpark76/kenpark76.github.io/refs/heads/main/koreatvEPG.xml"
-
+#EXTM3U url-tvg="https://raw.githubusercontent.com/pinkmove01/epg/main/epg-kr-merged.xml" x-tvg-url="https://raw.githubusercontent.com/pinkmove01/epg/main/epg-kr-merged.xml"
 
 
 
