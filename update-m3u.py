@@ -85,6 +85,22 @@ def filter_korea_only(out):
     return keep
 
 
+def strip_group_title(out):
+    """#EXTINF 줄에서 group-title 속성만 제거한다. (다른 속성·순서는 그대로)"""
+    fixed, n = [], 0
+    for ln in out:
+        if ln.startswith("#EXTINF") and "group-title=" in ln:
+            ln2 = re.sub(r'\s*group-title="[^"]*"', "", ln)
+            if ln2 != ln:
+                n += 1
+            fixed.append(ln2)
+        else:
+            fixed.append(ln)
+    if n:
+        print(f"group-title 제거: {n}개")
+    return fixed
+
+
 def append_new_channels(out, raw):
     """pjy 원본에만 있는 채널을 m3u 끝에 덧붙인다. (기존 형식: EXTINF / EXTVLCOPT / URL)"""
     have = set()
@@ -104,7 +120,7 @@ def append_new_channels(out, raw):
             continue                       # 중국·영어 채널은 아예 추가하지 않음
         hdr = e.get("headers") or {}
         ua = (hdr.get("user-agent") or hdr.get("User-Agent") or "")
-        added.append(f'#EXTINF:-1 tvg-id="" tvg-logo="{logo}" group-title="{group}",{name}')
+        added.append(f'#EXTINF:-1 tvg-id="" tvg-logo="{logo}",{name}')
         if ua:
             added.append(f"#EXTVLCOPT:http-user-agent={ua}")
         added.append(uris[0])
@@ -170,6 +186,7 @@ def main():
 
     out = filter_korea_only(out)
     added_n = append_new_channels(out, raw)
+    out = strip_group_title(out)
 
     open(M3U, "w", encoding="utf-8").write("\n".join(out).rstrip("\n") + "\n")
 
