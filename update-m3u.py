@@ -1,62 +1,5 @@
-#!/usr/bin/env python3
-"""koreatv-final.m3u 의 만료되는 스트림 주소만 원본(koreatv.json) 최신본으로 교체한다.
-- 갱신 대상 호스트: tvlive.sbs.co.kr (2시간 JWT), *.gscdn.kbs.co.kr (CloudFront Policy 서명)
-- 만료가 없는 주소(backup.760515.xyz, ebsonair, imbc, ottera 등)는 그대로 둔다.
-- pjy 원본(koreatv.json)에만 있는 신규 채널은 m3u 끝에 자동 추가한다.
-- 중국(中国-*)·영어(ENGLISH) 채널과 죽은 주소(vod.ikbc.co.kr)는 한국 전용 필터로 제거한다.
-"""
-import json, re, base64, time, urllib.request
-
-M3U = "koreatv-final.m3u"
-SRC = "https://raw.githubusercontent.com/kenpark76/kenpark76.github.io/main/koreatv.json"
-UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-      "(KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36")
-EXPIRING = ("tvlive.sbs.co.kr", "gscdn.kbs.co.kr")
-
-
-def fetch(url):
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return r.read().decode("utf-8", "replace")
-
-
-def _jwt(token):
-    """JWT 는 header.payload.signature 3부분 → 가운데 payload 만 디코드."""
-    t = token.split(".")[1]
-    t += "=" * (-len(t) % 4)
-    return json.loads(base64.urlsafe_b64decode(t))
-
-
-def _cf(text):
-    """CloudFront Policy: = + / 를 _ - ~ 로 치환해 쓴다."""
-    from urllib.parse import unquote
-    t = unquote(text).replace("-", "+").replace("_", "=").replace("~", "/")
-    t += "=" * (-len(t) % 4)
-    return json.loads(base64.urlsafe_b64decode(t))
-
-
-def exp_of(url):
-    """JWT exp 또는 CloudFront Policy 의 AWS:EpochTime. 못 읽으면 None."""
-    m = re.search(r"[?&]token=(ey[A-Za-z0-9_.-]+)", url)
-    if m:
-        try:
-            return int(_jwt(m.group(1))["exp"])
-        except Exception:
-            return None
-    m = re.search(r"[?&]Policy=([^&]+)", url)
-    if m:
-        try:
-            d = _cf(m.group(1))
-            return int(d["Statement"][0]["Condition"]["DateLessThan"]["AWS:EpochTime"])
-        except Exception:
-            from urllib.parse import unquote
-            m2 = re.search(r'EpochTime"?:?\s*:?(\d{9,})', unquote(m.group(1)))
-            return int(m2.group(1)) if m2 else None
-    return None
-
-
 def filter_korea_only(out):
-    """중국(中国-*)·영어(ENGLISH) 채널과 죽은 주소(vod.ikbc.co.kr)를 걸러낸다."""
+    """중국(中国-*)·영어(ENGLISH) 채널만 걸러낸다. 한국 채널(지역 SBS 포함)은 모두 유지."""
     keep, removed, block = [], [], []
 
     def flush():
@@ -66,10 +9,7 @@ def filter_korea_only(out):
         g = re.search(r'group-title="([^"]*)"', e)
         group = g.group(1) if g else ""
         name = e.rsplit(",", 1)[-1].strip()
-        url = next((l for l in block[1:] if l and not l.startswith("#")), "")
-        if "vod.ikbc.co.kr" in url:
-            removed.append((name, "dead-url"))
-        elif group.startswith("中国") or group == "ENGLISH":
+        if group.startswith("中国") or group == "ENGLISH":
             removed.append((name, group or "?"))
         else:
             keep.extend(block)
