@@ -53,8 +53,9 @@ https://backup.760515.xyz/playlist/KBS2-playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-id="814582.naver" tvg-logo="https://backup.760515.xyz/logo/KBS2.png",KBS2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTU1MTcyMTB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=MtUa2HO6knEFE~xB2t6z4Pa07kD2BFJjvARh0Allaa8g0wiCEBhzREp7EJO4K0enJJuMT-6ucUqU5PMY1ZVx9tIgKY1VKiqtRJy8zIgLNuUdf0dYjQnNzDh5hCcmqXnl41a7Wfb780grPdXkOcVp8DefTOcAQa2I542iF6MxpyyqQZzMsyj1-kjaquC5doWXuEQZkyn-lXHOEOI75cbt4OORjwC-mM4fd9KL6hFlNIYbp95BW0-MsIdB2vOglSH7ypz8A3Iohv4~stX3-moJ9r4I4iRvHJsCVK2QfMQ2PXxPDu6U0~YVel0IeVN2XHiPZfkJntZLpZsuW1kxgr2I6g__
 
 
 
