@@ -132,27 +132,6 @@
   <channel id="815090.naver">
     <display-name>KTV 국민방송</display-name>
   </channel>
-  <programme start="20261123014500 +0900" stop="20261123031500 +0900" channel="814592.naver">
-    <title lang="ko">꼬리에 꼬리를 무는 그날 이야기</title>
-  </programme>
-  <programme start="20261123031500 +0900" stop="20261123050000 +0900" channel="814592.naver">
-    <title lang="ko">방송 시간이 아닙니다(5시부터 방송 예정)</title>
-  </programme>
-  <programme start="20261123050000 +0900" stop="20261123060000 +0900" channel="814592.naver">
-    <title lang="ko">SBS 특선 다큐멘터리</title>
-  </programme>
-  <programme start="20261123060000 +0900" stop="20261123062500 +0900" channel="814592.naver">
-    <title lang="ko">모닝와이드</title>
-  </programme>
-  <programme start="20261123062500 +0900" stop="20261123074000 +0900" channel="814592.naver">
-    <title lang="ko">모닝와이드</title>
-  </programme>
-  <programme start="20261123074000 +0900" stop="20261123084000 +0900" channel="814592.naver">
-    <title lang="ko">모닝와이드</title>
-  </programme>
-  <programme start="20261123084000 +0900" stop="20261123085000 +0900" channel="814592.naver">
-    <title lang="ko">맨 인 블랙박스</title>
-  </programme>
   <programme start="20261123085000 +0900" stop="20261123095500 +0900" channel="814592.naver">
     <title lang="ko">좋은아침</title>
   </programme>
@@ -198,20 +177,23 @@
   <programme start="20261123190000 +0900" stop="20261123195000 +0900" channel="814592.naver">
     <title lang="ko">뉴스헌터스</title>
   </programme>
-  <programme start="20261123014000 +0900" stop="20261123050000 +0900" channel="814582.naver">
-    <title lang="ko">방송 시간이 아닙니다(5시부터 방송 예정)</title>
+  <programme start="20261123195000 +0900" stop="20261123210000 +0900" channel="814592.naver">
+    <title lang="ko">SBS 8 뉴스</title>
   </programme>
-  <programme start="20261123050000 +0900" stop="20261123060500 +0900" channel="814582.naver">
-    <title lang="ko">무엇이든 물어보세요 스페셜</title>
+  <programme start="20261123210000 +0900" stop="20261123220000 +0900" channel="814592.naver">
+    <title lang="ko">생활의 달인</title>
   </programme>
-  <programme start="20261123060500 +0900" stop="20261123063500 +0900" channel="814582.naver">
-    <title lang="ko">TV 유치원</title>
+  <programme start="20261123220000 +0900" stop="20261123230000 +0900" channel="814592.naver">
+    <title lang="ko">우리들의 발라드 2</title>
   </programme>
-  <programme start="20261123063500 +0900" stop="20261123073000 +0900" channel="814582.naver">
-    <title lang="ko">걸어서 세계속으로 트래블홀릭</title>
+  <programme start="20261123230000 +0900" stop="20261124002000 +0900" channel="814592.naver">
+    <title lang="ko">우리들의 발라드 2</title>
   </programme>
-  <programme start="20261123073000 +0900" stop="20261123084000 +0900" channel="814582.naver">
-    <title lang="ko">생생정보 스페셜</title>
+  <programme start="20261124002000 +0900" stop="20261124005000 +0900" channel="814592.naver">
+    <title lang="ko">나이트라인</title>
+  </programme>
+  <programme start="20261124005000 +0900" stop="20261124022000 +0900" channel="814592.naver">
+    <title lang="ko">꼬리에 꼬리를 무는 그날 이야기</title>
   </programme>
   <programme start="20261123084000 +0900" stop="20261123092000 +0900" channel="814582.naver">
     <title lang="ko">일일드라마 엄마가 미쳤어요</title>
@@ -258,20 +240,26 @@
   <programme start="20261123183500 +0900" stop="20261123195000 +0900" channel="814582.naver">
     <title lang="ko">2TV 생생정보</title>
   </programme>
-  <programme start="20261123014500 +0900" stop="20261123050000 +0900" channel="814574.naver">
-    <title lang="ko">방송 시간이 아닙니다(5시부터 방송 예정)</title>
+  <programme start="20261123195000 +0900" stop="20261123203000 +0900" channel="814582.naver">
+    <title lang="ko">일일드라마 욕망의 덫</title>
   </programme>
-  <programme start="20261123050000 +0900" stop="20261123051000 +0900" channel="814574.naver">
-    <title lang="ko">생활의 발견 스페셜</title>
+  <programme start="20261123203000 +0900" stop="20261123213000 +0900" channel="814582.naver">
+    <title lang="ko">다큐멘터리 3일</title>
   </programme>
-  <programme start="20261123051000 +0900" stop="20261123060000 +0900" channel="814574.naver">
-    <title lang="ko">내고향 스페셜</title>
+  <programme start="20261123213000 +0900" stop="20261123230000 +0900" channel="814582.naver">
+    <title lang="ko">말자쇼</title>
   </programme>
-  <programme start="20261123060000 +0900" stop="20261123075000 +0900" channel="814574.naver">
-    <title lang="ko">KBS 뉴스광장</title>
+  <programme start="20261123230000 +0900" stop="20261123232500 +0900" channel="814582.naver">
+    <title lang="ko">아이 러브 스포츠</title>
   </programme>
-  <programme start="20261123075000 +0900" stop="20261123082500 +0900" channel="814574.naver">
-    <title lang="ko">인간극장</title>
+  <programme start="20261123232500 +0900" stop="20261124002500 +0900" channel="814582.naver">
+    <title lang="ko">스모킹 건</title>
+  </programme>
+  <programme start="20261124002500 +0900" stop="20261124005500 +0900" channel="814582.naver">
+    <title lang="ko">트레킹노트 세상을 걷다 스페셜</title>
+  </programme>
+  <programme start="20261124005500 +0900" stop="20261124010500 +0900" channel="814582.naver">
+    <title lang="ko">KBS 재난방송센터</title>
   </programme>
   <programme start="20261123082500 +0900" stop="20261123093000 +0900" channel="814574.naver">
     <title lang="ko">아침마당</title>
@@ -324,20 +312,26 @@
   <programme start="20261123190000 +0900" stop="20261123194000 +0900" channel="814574.naver">
     <title lang="ko">KBS 뉴스 7</title>
   </programme>
-  <programme start="20261123005500 +0900" stop="20261123050000 +0900" channel="814588.naver">
-    <title lang="ko">방송 시간이 아닙니다(5시부터 방송 예정)</title>
+  <programme start="20261123194000 +0900" stop="20261123203000 +0900" channel="814574.naver">
+    <title lang="ko">우리말 겨루기</title>
   </programme>
-  <programme start="20261123050000 +0900" stop="20261123060000 +0900" channel="814588.naver">
-    <title lang="ko">테마기행 길</title>
+  <programme start="20261123203000 +0900" stop="20261123210000 +0900" channel="814574.naver">
+    <title lang="ko">일일드라마 엄마가 미쳤어요</title>
   </programme>
-  <programme start="20261123060000 +0900" stop="20261123062500 +0900" channel="814588.naver">
-    <title lang="ko">MBC 뉴스투데이</title>
+  <programme start="20261123210000 +0900" stop="20261123220000 +0900" channel="814574.naver">
+    <title lang="ko">KBS 뉴스 9</title>
   </programme>
-  <programme start="20261123062500 +0900" stop="20261123075000 +0900" channel="814588.naver">
-    <title lang="ko">MBC 뉴스투데이</title>
+  <programme start="20261123220000 +0900" stop="20261123225500 +0900" channel="814574.naver">
+    <title lang="ko">가요무대</title>
   </programme>
-  <programme start="20261123075000 +0900" stop="20261123085000 +0900" channel="814588.naver">
-    <title lang="ko">생방송 오늘 아침</title>
+  <programme start="20261123225500 +0900" stop="20261123233500 +0900" channel="814574.naver">
+    <title lang="ko">KBS 뉴스라인W</title>
+  </programme>
+  <programme start="20261123233500 +0900" stop="20261124001500 +0900" channel="814574.naver">
+    <title lang="ko">인생이 영화</title>
+  </programme>
+  <programme start="20261124001500 +0900" stop="20261124010500 +0900" channel="814574.naver">
+    <title lang="ko">KBS 네트워크 특선 세상다반사</title>
   </programme>
   <programme start="20261123085000 +0900" stop="20261123093000 +0900" channel="814588.naver">
     <title lang="ko">가족관계증명서</title>
@@ -384,23 +378,23 @@
   <programme start="20261123180500 +0900" stop="20261123190500 +0900" channel="814588.naver">
     <title lang="ko">오늘N</title>
   </programme>
-  <programme start="20261123024500 +0900" stop="20261123042000 +0900" channel="C00551.tving">
-    <title lang="ko">100일의 거짓말 (2회)</title>
+  <programme start="20261123190500 +0900" stop="20261123194000 +0900" channel="814588.naver">
+    <title lang="ko">가족관계증명서</title>
   </programme>
-  <programme start="20261123042000 +0900" stop="20261123045500 +0900" channel="C00551.tving">
-    <title lang="ko">언더커버 셰프 : 멀리서 찾아온 벗 스페셜 - 매력 만점 선배님들.ZIP</title>
+  <programme start="20261123194000 +0900" stop="20261123210000 +0900" channel="814588.naver">
+    <title lang="ko">MBC 뉴스데스크</title>
   </programme>
-  <programme start="20261123045500 +0900" stop="20261123055500 +0900" channel="C00551.tving">
-    <title lang="ko">너의 몸소리가 들려 (64회)</title>
+  <programme start="20261123210000 +0900" stop="20261123225000 +0900" channel="814588.naver">
+    <title lang="ko">오은영 리포트 결혼지옥</title>
   </programme>
-  <programme start="20261123055500 +0900" stop="20261123070000 +0900" channel="C00551.tving">
-    <title lang="ko">놀라운 토요일 - 타임어택! 팀플 받쓰</title>
+  <programme start="20261123225000 +0900" stop="20261124001000 +0900" channel="814588.naver">
+    <title lang="ko">옆자리 프란체스카</title>
   </programme>
-  <programme start="20261123070000 +0900" stop="20261123080000 +0900" channel="C00551.tving">
-    <title lang="ko">웰컴 투 불로촌 (125회)</title>
+  <programme start="20261124001000 +0900" stop="20261124003000 +0900" channel="814588.naver">
+    <title lang="ko">MBC 뉴스 25</title>
   </programme>
-  <programme start="20261123080000 +0900" stop="20261123084000 +0900" channel="C00551.tving">
-    <title lang="ko">언더커버 셰프 : 멀리서 찾아온 벗 스페셜 - 매력 만점 선배님들.ZIP</title>
+  <programme start="20261124003000 +0900" stop="20261124013000 +0900" channel="814588.naver">
+    <title lang="ko">실화탐사대 스페셜</title>
   </programme>
   <programme start="20261123084000 +0900" stop="20261123110000 +0900" channel="C00551.tving">
     <title lang="ko">유 퀴즈 온 더 블럭 (369회)</title>
@@ -420,26 +414,17 @@
   <programme start="20261123190000 +0900" stop="20261123200000 +0900" channel="C00551.tving">
     <title lang="ko">원더픽 (10회)</title>
   </programme>
-  <programme start="20261123030000 +0900" stop="20261123040000 +0900" channel="C01582.tving">
-    <title lang="ko">JTBC 스페셜 다큐멘터리 (4290회)</title>
+  <programme start="20261123200000 +0900" stop="20261123205000 +0900" channel="C00551.tving">
+    <title lang="ko">유 퀴즈 온 더 블럭 특별판 - 스타 자기님을 찾아서</title>
   </programme>
-  <programme start="20261123040000 +0900" stop="20261123050000 +0900" channel="C01582.tving">
-    <title lang="ko">JTBC 스페셜 다큐멘터리 (4291회)</title>
+  <programme start="20261123205000 +0900" stop="20261123220000 +0900" channel="C00551.tving">
+    <title lang="ko">나의 유죄인간 (11회)</title>
   </programme>
-  <programme start="20261123050000 +0900" stop="20261123060000 +0900" channel="C01582.tving">
-    <title lang="ko">내 몸을 부탁해 (53회)</title>
+  <programme start="20261123220000 +0900" stop="20261124000000 +0900" channel="C00551.tving">
+    <title lang="ko">벌거벗은 세계사 (281회)</title>
   </programme>
-  <programme start="20261123060000 +0900" stop="20261123070000 +0900" channel="C01582.tving">
-    <title lang="ko">이토록 위대한 몸 (63회)</title>
-  </programme>
-  <programme start="20261123070000 +0900" stop="20261123073000 +0900" channel="C01582.tving">
-    <title lang="ko">그라운드 크루 토토 (8회)</title>
-  </programme>
-  <programme start="20261123073000 +0900" stop="20261123080000 +0900" channel="C01582.tving">
-    <title lang="ko">아침&amp;</title>
-  </programme>
-  <programme start="20261123080000 +0900" stop="20261123090000 +0900" channel="C01582.tving">
-    <title lang="ko">다큐플러스Q 스페셜 (13회)</title>
+  <programme start="20261124000000 +0900" stop="20261124013000 +0900" channel="C00551.tving">
+    <title lang="ko">식스센스: B사이드 (10회)</title>
   </programme>
   <programme start="20261123090000 +0900" stop="20261123100000 +0900" channel="C01582.tving">
     <title lang="ko">이토록 위대한 몸 스페셜 (10회)</title>
@@ -468,29 +453,17 @@
   <programme start="20261123183000 +0900" stop="20261123200000 +0900" channel="C01582.tving">
     <title lang="ko">JTBC 뉴스룸</title>
   </programme>
-  <programme start="20261123030000 +0900" stop="20261123033000 +0900" channel="C01583.tving">
-    <title lang="ko">채널A 스페셜 다큐S프라임 (355회)</title>
+  <programme start="20261123200000 +0900" stop="20261123205000 +0900" channel="C01582.tving">
+    <title lang="ko">내 아내의 속사정 (4회)</title>
   </programme>
-  <programme start="20261123033000 +0900" stop="20261123040000 +0900" channel="C01583.tving">
-    <title lang="ko">채널A 스페셜 눈에 띄는 그녀들 8 (28회)</title>
+  <programme start="20261123205000 +0900" stop="20261123215000 +0900" channel="C01582.tving">
+    <title lang="ko">사건반장</title>
   </programme>
-  <programme start="20261123040000 +0900" stop="20261123050000 +0900" channel="C01583.tving">
-    <title lang="ko">채널A 스페셜 미스터리 팩트체크 시즌5 (8회)</title>
+  <programme start="20261123215000 +0900" stop="20261123235000 +0900" channel="C01582.tving">
+    <title lang="ko">냉장고를 부탁해 since 2014 (98회)</title>
   </programme>
-  <programme start="20261123050000 +0900" stop="20261123060000 +0900" channel="C01583.tving">
-    <title lang="ko">생존의 비밀 (64회)</title>
-  </programme>
-  <programme start="20261123060000 +0900" stop="20261123065000 +0900" channel="C01583.tving">
-    <title lang="ko">아이엠닥터 (80회)</title>
-  </programme>
-  <programme start="20261123065000 +0900" stop="20261123073000 +0900" channel="C01583.tving">
-    <title lang="ko">잘 살면 좋잖아 (44회)</title>
-  </programme>
-  <programme start="20261123073000 +0900" stop="20261123080000 +0900" channel="C01583.tving">
-    <title lang="ko">나의 비밀 친구 해치 part2 (3회)</title>
-  </programme>
-  <programme start="20261123080000 +0900" stop="20261123085000 +0900" channel="C01583.tving">
-    <title lang="ko">행복한 아침</title>
+  <programme start="20261123235000 +0900" stop="20261124011000 +0900" channel="C01582.tving">
+    <title lang="ko">파이널 테이블 (9회)</title>
   </programme>
   <programme start="20261123085000 +0900" stop="20261123103000 +0900" channel="C01583.tving">
     <title lang="ko">김진의 돌직구 쇼</title>
@@ -516,20 +489,17 @@
   <programme start="20261123190000 +0900" stop="20261123200000 +0900" channel="C01583.tving">
     <title lang="ko">뉴스A</title>
   </programme>
-  <programme start="20261123013200 +0900" stop="20261123032000 +0900" channel="C15741.tving">
-    <title lang="ko">[최신-비]냉장고를 부탁해 since 2014 (98회)</title>
+  <programme start="20261123200000 +0900" stop="20261123210000 +0900" channel="C01583.tving">
+    <title lang="ko">건강한 식당 (38회)</title>
   </programme>
-  <programme start="20261123032000 +0900" stop="20261123044100 +0900" channel="C15741.tving">
-    <title lang="ko">[안효섭]파이널 테이블 (10회)</title>
+  <programme start="20261123210000 +0900" stop="20261123220000 +0900" channel="C01583.tving">
+    <title lang="ko">뉴스A CITY LIVE</title>
   </programme>
-  <programme start="20261123044100 +0900" stop="20261123055600 +0900" channel="C15741.tving">
-    <title lang="ko">[최신-비]냉장고를 부탁해 since 2014 (98회)</title>
+  <programme start="20261123220000 +0900" stop="20261124000000 +0900" channel="C01583.tving">
+    <title lang="ko">탐정들의 영업비밀 (138회)</title>
   </programme>
-  <programme start="20261123055600 +0900" stop="20261123065800 +0900" channel="C15741.tving">
-    <title lang="ko">사건반장 (2937회)</title>
-  </programme>
-  <programme start="20261123065800 +0900" stop="20261123081500 +0900" channel="C15741.tving">
-    <title lang="ko">[연속방송]파이널 테이블 (9회)</title>
+  <programme start="20261124000000 +0900" stop="20261124012000 +0900" channel="C01583.tving">
+    <title lang="ko">채널A 화요드라마 키드냅게임 (7회)</title>
   </programme>
   <programme start="20261123081500 +0900" stop="20261123094000 +0900" channel="C15741.tving">
     <title lang="ko">[연속방송]파이널 테이블 (10회)</title>
@@ -552,17 +522,17 @@
   <programme start="20261123172400 +0900" stop="20261123191300 +0900" channel="C15741.tving">
     <title lang="ko">[비X성시경]냉장고를 부탁해 since 2014 (98회)</title>
   </programme>
-  <programme start="20261123011100 +0900" stop="20261123030900 +0900" channel="C22041.tving">
-    <title lang="ko">이혼숙려캠프 (108회)</title>
+  <programme start="20261123191300 +0900" stop="20261123210100 +0900" channel="C15741.tving">
+    <title lang="ko">[코쿤X이선민]냉장고를 부탁해 since 2014 (92회)</title>
   </programme>
-  <programme start="20261123030900 +0900" stop="20261123044300 +0900" channel="C22041.tving">
-    <title lang="ko">[한국사부터 세계사까지] 강연배틀쇼 사기꾼들 (7회)</title>
+  <programme start="20261123210100 +0900" stop="20261123225200 +0900" channel="C15741.tving">
+    <title lang="ko">[비X성시경]냉장고를 부탁해 since 2014 (98회)</title>
   </programme>
-  <programme start="20261123044300 +0900" stop="20261123060100 +0900" channel="C22041.tving">
-    <title lang="ko">[한국사부터 세계사까지] 강연배틀쇼 사기꾼들 (8회)</title>
+  <programme start="20261123225200 +0900" stop="20261124003900 +0900" channel="C15741.tving">
+    <title lang="ko">[대환장]이혼숙려캠프 (109회)</title>
   </programme>
-  <programme start="20261123060100 +0900" stop="20261123073100 +0900" channel="C22041.tving">
-    <title lang="ko">[최악의 9.11 테러] 세계 다크투어 (3회)</title>
+  <programme start="20261124003900 +0900" stop="20261124023000 +0900" channel="C15741.tving">
+    <title lang="ko">[비X성시경]냉장고를 부탁해 since 2014 (98회)</title>
   </programme>
   <programme start="20261123073100 +0900" stop="20261123091500 +0900" channel="C22041.tving">
     <title lang="ko">[케네디 암살사건] 세계 다크투어 (4회)</title>
@@ -588,20 +558,17 @@
   <programme start="20261123185600 +0900" stop="20261123201300 +0900" channel="C22041.tving">
     <title lang="ko">[임지연X추영우] 옥씨부인전 (16회)</title>
   </programme>
-  <programme start="20261123030000 +0900" stop="20261123040000 +0900" channel="C00585.tving">
-    <title lang="ko">싱싱! 고향별곡 (273회)</title>
+  <programme start="20261123201300 +0900" stop="20261123215800 +0900" channel="C22041.tving">
+    <title lang="ko">이혼숙려캠프 (107회)</title>
   </programme>
-  <programme start="20261123040000 +0900" stop="20261123050000 +0900" channel="C00585.tving">
-    <title lang="ko">살맛나는 세상 (880회)</title>
+  <programme start="20261123215800 +0900" stop="20261123231300 +0900" channel="C22041.tving">
+    <title lang="ko">[셰프 안효섭] 파이널 테이블 (7회)</title>
   </programme>
-  <programme start="20261123050000 +0900" stop="20261123060000 +0900" channel="C00585.tving">
-    <title lang="ko">NEW 코리아 헌터 (36회)</title>
+  <programme start="20261123231300 +0900" stop="20261124003000 +0900" channel="C22041.tving">
+    <title lang="ko">[셰프 안효섭] 파이널 테이블 (8회)</title>
   </programme>
-  <programme start="20261123060000 +0900" stop="20261123070000 +0900" channel="C00585.tving">
-    <title lang="ko">식객 허영만의 백반기행 (174회)</title>
-  </programme>
-  <programme start="20261123070000 +0900" stop="20261123083000 +0900" channel="C00585.tving">
-    <title lang="ko">모-던 인물사 미스터.리 (10회)</title>
+  <programme start="20261124003000 +0900" stop="20261124014900 +0900" channel="C22041.tving">
+    <title lang="ko">한문철의 블랙박스 리뷰 (194회)</title>
   </programme>
   <programme start="20261123083000 +0900" stop="20261123100000 +0900" channel="C00585.tving">
     <title lang="ko">화요일은 밤이 좋아 (70회)</title>
@@ -624,17 +591,14 @@
   <programme start="20261123190000 +0900" stop="20261123210000 +0900" channel="C00585.tving">
     <title lang="ko">천만 기인쇼 (8회)</title>
   </programme>
-  <programme start="20261123020500 +0900" stop="20261123033500 +0900" channel="C01141.tving">
-    <title lang="ko">천 개의 눈 (5회)</title>
+  <programme start="20261123210000 +0900" stop="20261123230000 +0900" channel="C00585.tving">
+    <title lang="ko">금타는 금요일 (45회)</title>
   </programme>
-  <programme start="20261123033500 +0900" stop="20261123052000 +0900" channel="C01141.tving">
-    <title lang="ko">진실 혹은 설정: 우아한 인생 (6회)</title>
+  <programme start="20261123230000 +0900" stop="20261124003000 +0900" channel="C00585.tving">
+    <title lang="ko">자랑할 개 있습니다 (1회)</title>
   </programme>
-  <programme start="20261123052000 +0900" stop="20261123070000 +0900" channel="C01141.tving">
-    <title lang="ko">무쇠소녀단 (1회)</title>
-  </programme>
-  <programme start="20261123070000 +0900" stop="20261123083500 +0900" channel="C01141.tving">
-    <title lang="ko">무쇠소녀단 (2회)</title>
+  <programme start="20261124003000 +0900" stop="20261124014000 +0900" channel="C00585.tving">
+    <title lang="ko">금타는 금요일 베스트 (45회)</title>
   </programme>
   <programme start="20261123083500 +0900" stop="20261123101500 +0900" channel="C01141.tving">
     <title lang="ko">무쇠소녀단 (3회)</title>
@@ -654,20 +618,17 @@
   <programme start="20261123171500 +0900" stop="20261123193500 +0900" channel="C01141.tving">
     <title lang="ko">언더커버 셰프 : 멀리서 찾아온 벗 (4회)</title>
   </programme>
-  <programme start="20261123020000 +0900" stop="20261123031000 +0900" channel="C01143.tving">
-    <title lang="ko">나의 유죄인간 (10회)</title>
+  <programme start="20261123193500 +0900" stop="20261123210500 +0900" channel="C01141.tving">
+    <title lang="ko">식스센스: B사이드 (10회)</title>
   </programme>
-  <programme start="20261123031000 +0900" stop="20261123042000 +0900" channel="C01143.tving">
-    <title lang="ko">소용없어 거짓말 (14회)</title>
+  <programme start="20261123210500 +0900" stop="20261123232000 +0900" channel="C01141.tving">
+    <title lang="ko">언더커버 셰프 : 멀리서 찾아온 벗 (4회)</title>
   </programme>
-  <programme start="20261123042000 +0900" stop="20261123053500 +0900" channel="C01143.tving">
-    <title lang="ko">소용없어 거짓말 (15회)</title>
+  <programme start="20261123232000 +0900" stop="20261124005500 +0900" channel="C01141.tving">
+    <title lang="ko">회장님네 사람들 (64회)</title>
   </programme>
-  <programme start="20261123053500 +0900" stop="20261123063000 +0900" channel="C01143.tving">
-    <title lang="ko">언니네 산지직송3-네 식구 산지 라이프</title>
-  </programme>
-  <programme start="20261123063000 +0900" stop="20261123075500 +0900" channel="C01143.tving">
-    <title lang="ko">내일도 출근! (6회)</title>
+  <programme start="20261124005500 +0900" stop="20261124023000 +0900" channel="C01141.tving">
+    <title lang="ko">회장님네 사람들 (65회)</title>
   </programme>
   <programme start="20261123075500 +0900" stop="20261123091000 +0900" channel="C01143.tving">
     <title lang="ko">내일도 출근! (7회)</title>
@@ -696,17 +657,20 @@
   <programme start="20261123175000 +0900" stop="20261123191000 +0900" channel="C01143.tving">
     <title lang="ko">로맨스는 별책부록 (15회)</title>
   </programme>
-  <programme start="20261123014000 +0900" stop="20261123032500 +0900" channel="C51258.tving">
-    <title lang="ko">눈물의 여왕 (9회)</title>
+  <programme start="20261123191000 +0900" stop="20261123201500 +0900" channel="C01143.tving">
+    <title lang="ko">원더픽 (10회)</title>
   </programme>
-  <programme start="20261123032500 +0900" stop="20261123050000 +0900" channel="C51258.tving">
-    <title lang="ko">눈물의 여왕 (10회)</title>
+  <programme start="20261123201500 +0900" stop="20261123215000 +0900" channel="C01143.tving">
+    <title lang="ko">미스터 션샤인 (21회)</title>
   </programme>
-  <programme start="20261123050000 +0900" stop="20261123064000 +0900" channel="C51258.tving">
-    <title lang="ko">알쓸별잡: 지중해 (7회)</title>
+  <programme start="20261123215000 +0900" stop="20261123233000 +0900" channel="C01143.tving">
+    <title lang="ko">미스터 션샤인 (22회)</title>
   </programme>
-  <programme start="20261123064000 +0900" stop="20261123080000 +0900" channel="C51258.tving">
-    <title lang="ko">이호선 상담소 : 호랑이 쌤의 1:1 밀착 솔루션!</title>
+  <programme start="20261123233000 +0900" stop="20261124004500 +0900" channel="C01143.tving">
+    <title lang="ko">나의 유죄인간 (11회)</title>
+  </programme>
+  <programme start="20261124004500 +0900" stop="20261124021000 +0900" channel="C01143.tving">
+    <title lang="ko">뜨거운 안녕 (3회)</title>
   </programme>
   <programme start="20261123080000 +0900" stop="20261123090500 +0900" channel="C51258.tving">
     <title lang="ko">70억의 선택 (213회)</title>
@@ -735,20 +699,14 @@
   <programme start="20261123182500 +0900" stop="20261123200000 +0900" channel="C51258.tving">
     <title lang="ko">이호선 상담소 (41회)</title>
   </programme>
-  <programme start="20261123023000 +0900" stop="20261123040000 +0900" channel="C17141.tving">
-    <title lang="ko">탐정들의 영업비밀 충격실화극 (90회)</title>
+  <programme start="20261123200000 +0900" stop="20261123215000 +0900" channel="C51258.tving">
+    <title lang="ko">남겨서 뭐하게 (68회)</title>
   </programme>
-  <programme start="20261123040000 +0900" stop="20261123045000 +0900" channel="C17141.tving">
-    <title lang="ko">채널A 스페셜 당신이 몰랐던 역사 비하인드, 언빌리버블 시즌2 (11회)</title>
+  <programme start="20261123215000 +0900" stop="20261123233500 +0900" channel="C51258.tving">
+    <title lang="ko">100일의 거짓말 (13회)</title>
   </programme>
-  <programme start="20261123045000 +0900" stop="20261123060000 +0900" channel="C17141.tving">
-    <title lang="ko">채널A 스페셜 칭기즈칸의 잃어버린 도시들 (1회)</title>
-  </programme>
-  <programme start="20261123060000 +0900" stop="20261123070000 +0900" channel="C17141.tving">
-    <title lang="ko">언니만 따라와 (1회)</title>
-  </programme>
-  <programme start="20261123070000 +0900" stop="20261123083000 +0900" channel="C17141.tving">
-    <title lang="ko">[기막힌 이중생활] 탐정들의 영업비밀 (134회)</title>
+  <programme start="20261123233500 +0900" stop="20261124012000 +0900" channel="C51258.tving">
+    <title lang="ko">100일의 거짓말 (14회)</title>
   </programme>
   <programme start="20261123083000 +0900" stop="20261123093000 +0900" channel="C17141.tving">
     <title lang="ko">[함안 여행] 고두심이 좋아서 (28회)</title>
@@ -777,26 +735,17 @@
   <programme start="20261123184000 +0900" stop="20261123194000 +0900" channel="C17141.tving">
     <title lang="ko">[제주 여행] 고두심이 좋아서 (30회)</title>
   </programme>
-  <programme start="20261123025000 +0900" stop="20261123035000 +0900" channel="C00579.tving">
-    <title lang="ko">Music Express (1707회)</title>
+  <programme start="20261123194000 +0900" stop="20261123204000 +0900" channel="C17141.tving">
+    <title lang="ko">탐정들의 영업비밀 충격실화극 (77회)</title>
   </programme>
-  <programme start="20261123035000 +0900" stop="20261123051000 +0900" channel="C00579.tving">
-    <title lang="ko">퀴즈와 음악 사이 (5회)</title>
+  <programme start="20261123204000 +0900" stop="20261123222000 +0900" channel="C17141.tving">
+    <title lang="ko">[북한 가상화폐] 이제 만나러 갑니다 (775회)</title>
   </programme>
-  <programme start="20261123051000 +0900" stop="20261123054000 +0900" channel="C00579.tving">
-    <title lang="ko">동네스타K쇼 (8회)</title>
+  <programme start="20261123222000 +0900" stop="20261123235000 +0900" channel="C17141.tving">
+    <title lang="ko">이제 만나러 갑니다 닫힌 나라의 삶 (15회)</title>
   </programme>
-  <programme start="20261123054000 +0900" stop="20261123064000 +0900" channel="C00579.tving">
-    <title lang="ko">월급루팡 에이티즈 (6회)</title>
-  </programme>
-  <programme start="20261123064000 +0900" stop="20261123074000 +0900" channel="C00579.tving">
-    <title lang="ko">M morning (4069회)</title>
-  </programme>
-  <programme start="20261123074000 +0900" stop="20261123082000 +0900" channel="C00579.tving">
-    <title lang="ko">수석연구회 (6회)</title>
-  </programme>
-  <programme start="20261123082000 +0900" stop="20261123090000 +0900" channel="C00579.tving">
-    <title lang="ko">최씨크루 (12회)</title>
+  <programme start="20261123235000 +0900" stop="20261124015000 +0900" channel="C17141.tving">
+    <title lang="ko">[방금 놓친] 탐정들의 영업비밀 (138회)</title>
   </programme>
   <programme start="20261123090000 +0900" stop="20261123105000 +0900" channel="C00579.tving">
     <title lang="ko">2026 MAMA AWARDS CHAPTER 1 베스트 퍼포먼스 (1회)</title>
@@ -822,23 +771,23 @@
   <programme start="20261123185000 +0900" stop="20261123200000 +0900" channel="C00579.tving">
     <title lang="ko">2026 MAMA AWARDS CHAPTER 1 (3회)</title>
   </programme>
-  <programme start="20261123021000 +0900" stop="20261123031000 +0900" channel="C00708.tving">
-    <title lang="ko">[MBN 스페셜 다큐]라스트 캡틴 (4회)</title>
+  <programme start="20261123200000 +0900" stop="20261123205000 +0900" channel="C00579.tving">
+    <title lang="ko">수석연구회 (7회)</title>
   </programme>
-  <programme start="20261123031000 +0900" stop="20261123041000 +0900" channel="C00708.tving">
-    <title lang="ko">[MBN 스페셜 다큐]라스트 캡틴 (5회)</title>
+  <programme start="20261123205000 +0900" stop="20261123215000 +0900" channel="C00579.tving">
+    <title lang="ko">Live on M (3524회)</title>
   </programme>
-  <programme start="20261123041000 +0900" stop="20261123050000 +0900" channel="C00708.tving">
-    <title lang="ko">휴먼다큐 사노라면 (765회)</title>
+  <programme start="20261123215000 +0900" stop="20261123233000 +0900" channel="C00579.tving">
+    <title lang="ko">우주떡집 (5회)</title>
   </programme>
-  <programme start="20261123050000 +0900" stop="20261123060000 +0900" channel="C00708.tving">
-    <title lang="ko">퀸 메이커 (9회)</title>
+  <programme start="20261123233000 +0900" stop="20261124002000 +0900" channel="C00579.tving">
+    <title lang="ko">라꼰즈 (17회)</title>
   </programme>
-  <programme start="20261123060000 +0900" stop="20261123070000 +0900" channel="C00708.tving">
-    <title lang="ko">건강히어로 (6회)</title>
+  <programme start="20261124002000 +0900" stop="20261124010000 +0900" channel="C00579.tving">
+    <title lang="ko">블러드 다이어리 (7회)</title>
   </programme>
-  <programme start="20261123070000 +0900" stop="20261123080000 +0900" channel="C00708.tving">
-    <title lang="ko">굿모닝 MBN</title>
+  <programme start="20261124010000 +0900" stop="20261124024000 +0900" channel="C00579.tving">
+    <title lang="ko">퍼펙트 글로우 (2회)</title>
   </programme>
   <programme start="20261123080000 +0900" stop="20261123092000 +0900" channel="C00708.tving">
     <title lang="ko">아침 &amp; 매일경제</title>
@@ -873,26 +822,20 @@
   <programme start="20261123190000 +0900" stop="20261123201000 +0900" channel="C00708.tving">
     <title lang="ko">MBN 뉴스 7</title>
   </programme>
-  <programme start="20261123022000 +0900" stop="20261123031000 +0900" channel="C00544.tving">
-    <title lang="ko">해성 여자기성전 (33회)</title>
+  <programme start="20261123201000 +0900" stop="20261123211000 +0900" channel="C00708.tving">
+    <title lang="ko">바디인사이트 (59회)</title>
   </programme>
-  <programme start="20261123031000 +0900" stop="20261123040000 +0900" channel="C00544.tving">
-    <title lang="ko">해성 여자기성전 (34회)</title>
+  <programme start="20261123211000 +0900" stop="20261123222000 +0900" channel="C00708.tving">
+    <title lang="ko">나는 자연인이다 (736회)</title>
   </programme>
-  <programme start="20261123040000 +0900" stop="20261123045000 +0900" channel="C00544.tving">
-    <title lang="ko">해성 여자기성전 (35회)</title>
+  <programme start="20261123222000 +0900" stop="20261123233000 +0900" channel="C00708.tving">
+    <title lang="ko">빈칸채우기 (11회)</title>
   </programme>
-  <programme start="20261123045000 +0900" stop="20261123054000 +0900" channel="C00544.tving">
-    <title lang="ko">위클리 차이나우 (262회)</title>
+  <programme start="20261123233000 +0900" stop="20261124004000 +0900" channel="C00708.tving">
+    <title lang="ko">알토란 스페셜 (378회)</title>
   </programme>
-  <programme start="20261123054000 +0900" stop="20261123063000 +0900" channel="C00544.tving">
-    <title lang="ko">위클리 차이나우 (263회)</title>
-  </programme>
-  <programme start="20261123063000 +0900" stop="20261123074000 +0900" channel="C00544.tving">
-    <title lang="ko">차이나 히코노미 (3회)</title>
-  </programme>
-  <programme start="20261123074000 +0900" stop="20261123085000 +0900" channel="C00544.tving">
-    <title lang="ko">차이나 히코노미 (4회)</title>
+  <programme start="20261124004000 +0900" stop="20261124014000 +0900" channel="C00708.tving">
+    <title lang="ko">휴먼다큐 사노라면 스페셜 (26회)</title>
   </programme>
   <programme start="20261123085000 +0900" stop="20261123100000 +0900" channel="C00544.tving">
     <title lang="ko">차이나 인더스트리 (8회)</title>
@@ -927,26 +870,23 @@
   <programme start="20261123190000 +0900" stop="20261123200000 +0900" channel="C00544.tving">
     <title lang="ko">도화년 (14회)</title>
   </programme>
-  <programme start="20261123020300 +0900" stop="20261123030300 +0900" channel="C17341.tving">
-    <title lang="ko">시크릿 오브 아메리카 (2회)</title>
+  <programme start="20261123200000 +0900" stop="20261123210000 +0900" channel="C00544.tving">
+    <title lang="ko">도화년 (15회)</title>
   </programme>
-  <programme start="20261123030300 +0900" stop="20261123040400 +0900" channel="C17341.tving">
-    <title lang="ko">[히스토리 다큐 인사이드] 미스터리 팩트체크 (124회)</title>
+  <programme start="20261123210000 +0900" stop="20261123220000 +0900" channel="C00544.tving">
+    <title lang="ko">양경십오일 (7회)</title>
   </programme>
-  <programme start="20261123040400 +0900" stop="20261123050300 +0900" channel="C17341.tving">
-    <title lang="ko">[히스토리 다큐 인사이드] 지구가 숨겨온 미스터리 (한국어 더빙) (1회)</title>
+  <programme start="20261123220000 +0900" stop="20261123230000 +0900" channel="C00544.tving">
+    <title lang="ko">양경십오일 (8회)</title>
   </programme>
-  <programme start="20261123050300 +0900" stop="20261123060100 +0900" channel="C17341.tving">
-    <title lang="ko">패튼 360 (8회)</title>
+  <programme start="20261123230000 +0900" stop="20261124000000 +0900" channel="C00544.tving">
+    <title lang="ko">가금채 (1회)</title>
   </programme>
-  <programme start="20261123060100 +0900" stop="20261123070900 +0900" channel="C17341.tving">
-    <title lang="ko">K-ASMR (43회)</title>
+  <programme start="20261124000000 +0900" stop="20261124005000 +0900" channel="C00544.tving">
+    <title lang="ko">위클리 차이나우 (212회)</title>
   </programme>
-  <programme start="20261123070900 +0900" stop="20261123081200 +0900" channel="C17341.tving">
-    <title lang="ko">걸어서 세계속으로 (679회)</title>
-  </programme>
-  <programme start="20261123081200 +0900" stop="20261123084600 +0900" channel="C17341.tving">
-    <title lang="ko">댕댕이와 함께하는 문화유산 산책 (3회)</title>
+  <programme start="20261124005000 +0900" stop="20261124020000 +0900" channel="C00544.tving">
+    <title lang="ko">70억의 선택 (98회)</title>
   </programme>
   <programme start="20261123084600 +0900" stop="20261123095900 +0900" channel="C17341.tving">
     <title lang="ko">더 풀어파일러 감독판 (6회)</title>
@@ -978,23 +918,20 @@
   <programme start="20261123183400 +0900" stop="20261123194600 +0900" channel="C17341.tving">
     <title lang="ko">결이 다른 전쟁사 (1회)</title>
   </programme>
-  <programme start="20261123030000 +0900" stop="20261123040000 +0900" channel="C01723.tving">
-    <title lang="ko">뉴스 03</title>
+  <programme start="20261123194600 +0900" stop="20261123210800 +0900" channel="C17341.tving">
+    <title lang="ko">심야괴담회 시즌4 (9회)</title>
   </programme>
-  <programme start="20261123040000 +0900" stop="20261123042000 +0900" channel="C01723.tving">
-    <title lang="ko">리부팅 지방시대</title>
+  <programme start="20261123210800 +0900" stop="20261123220500 +0900" channel="C17341.tving">
+    <title lang="ko">지구가 숨겨온 미스터리 (한국어 더빙) (1회)</title>
   </programme>
-  <programme start="20261123042000 +0900" stop="20261123044500 +0900" channel="C01723.tving">
-    <title lang="ko">뉴스오늘</title>
+  <programme start="20261123220500 +0900" stop="20261123230400 +0900" channel="C17341.tving">
+    <title lang="ko">미스터리 팩트체크 (124회)</title>
   </programme>
-  <programme start="20261123044500 +0900" stop="20261123054500 +0900" channel="C01723.tving">
-    <title lang="ko">뉴스오늘</title>
+  <programme start="20261123230400 +0900" stop="20261124000600 +0900" channel="C17341.tving">
+    <title lang="ko">순위공개! 고대 10대 불가사의 (4회)</title>
   </programme>
-  <programme start="20261123054500 +0900" stop="20261123071500 +0900" channel="C01723.tving">
-    <title lang="ko">출발 600</title>
-  </programme>
-  <programme start="20261123071500 +0900" stop="20261123081500 +0900" channel="C01723.tving">
-    <title lang="ko">라이브 투데이</title>
+  <programme start="20261124000600 +0900" stop="20261124010600 +0900" channel="C17341.tving">
+    <title lang="ko">미스터리 8 시즌3 (6회)</title>
   </programme>
   <programme start="20261123081500 +0900" stop="20261123093000 +0900" channel="C01723.tving">
     <title lang="ko">라이브 투데이</title>
@@ -1020,23 +957,17 @@
   <programme start="20261123185500 +0900" stop="20261123202500 +0900" channel="C01723.tving">
     <title lang="ko">뉴스프라임</title>
   </programme>
-  <programme start="20261123025000 +0900" stop="20261123031500 +0900" channel="C00593.tving">
-    <title lang="ko">YTN 24</title>
+  <programme start="20261123202500 +0900" stop="20261123214000 +0900" channel="C01723.tving">
+    <title lang="ko">뉴스리뷰</title>
   </programme>
-  <programme start="20261123031500 +0900" stop="20261123035000 +0900" channel="C00593.tving">
-    <title lang="ko">특집-어느 날의 편지</title>
+  <programme start="20261123214000 +0900" stop="20261123234500 +0900" channel="C01723.tving">
+    <title lang="ko">뉴스 투나잇</title>
   </programme>
-  <programme start="20261123035000 +0900" stop="20261123045000 +0900" channel="C00593.tving">
-    <title lang="ko">뉴스퀘어 4AM</title>
+  <programme start="20261123234500 +0900" stop="20261124005500 +0900" channel="C01723.tving">
+    <title lang="ko">뉴스 24</title>
   </programme>
-  <programme start="20261123045000 +0900" stop="20261123055000 +0900" channel="C00593.tving">
-    <title lang="ko">뉴스START</title>
-  </programme>
-  <programme start="20261123055000 +0900" stop="20261123065000 +0900" channel="C00593.tving">
-    <title lang="ko">뉴스START</title>
-  </programme>
-  <programme start="20261123065000 +0900" stop="20261123075000 +0900" channel="C00593.tving">
-    <title lang="ko">뉴스START</title>
+  <programme start="20261124005500 +0900" stop="20261124014000 +0900" channel="C01723.tving">
+    <title lang="ko">뉴스 01</title>
   </programme>
   <programme start="20261123075000 +0900" stop="20261123094000 +0900" channel="C00593.tving">
     <title lang="ko">뉴스UP</title>
@@ -1056,17 +987,17 @@
   <programme start="20261123175000 +0900" stop="20261123195000 +0900" channel="C00593.tving">
     <title lang="ko">뉴스PLUS</title>
   </programme>
-  <programme start="20261123030000 +0900" stop="20261123041000 +0900" channel="C17142.tving">
-    <title lang="ko">빈칸채우기 (10회)</title>
+  <programme start="20261123195000 +0900" stop="20261123214000 +0900" channel="C00593.tving">
+    <title lang="ko">뉴스퀘어 8PM</title>
   </programme>
-  <programme start="20261123041000 +0900" stop="20261123051000 +0900" channel="C17142.tving">
-    <title lang="ko">엄지의 제왕 (719회)</title>
+  <programme start="20261123214000 +0900" stop="20261123235000 +0900" channel="C00593.tving">
+    <title lang="ko">뉴스NIGHT</title>
   </programme>
-  <programme start="20261123051000 +0900" stop="20261123065000 +0900" channel="C17142.tving">
-    <title lang="ko">전현무계획 4 (20회)</title>
+  <programme start="20261123235000 +0900" stop="20261124005000 +0900" channel="C00593.tving">
+    <title lang="ko">YTN 24</title>
   </programme>
-  <programme start="20261123065000 +0900" stop="20261123083000 +0900" channel="C17142.tving">
-    <title lang="ko">알토란 (258회)</title>
+  <programme start="20261124005000 +0900" stop="20261124015000 +0900" channel="C00593.tving">
+    <title lang="ko">YTN 24</title>
   </programme>
   <programme start="20261123083000 +0900" stop="20261123101000 +0900" channel="C17142.tving">
     <title lang="ko">언포게터블 듀엣 2 (3회)</title>
@@ -1089,32 +1020,20 @@
   <programme start="20261123183000 +0900" stop="20261123195000 +0900" channel="C17142.tving">
     <title lang="ko">특종세상 (484회)</title>
   </programme>
-  <programme start="20261123021500 +0900" stop="20261123035000 +0900" channel="814763.naver">
-    <title lang="ko">불후의 명곡2</title>
+  <programme start="20261123195000 +0900" stop="20261123210000 +0900" channel="C17142.tving">
+    <title lang="ko">나는 자연인이다 (733회)</title>
   </programme>
-  <programme start="20261123035000 +0900" stop="20261123045500 +0900" channel="814763.naver">
-    <title lang="ko">걸어서 세계속으로 트래블홀릭</title>
+  <programme start="20261123210000 +0900" stop="20261123221000 +0900" channel="C17142.tving">
+    <title lang="ko">리얼다큐 숨 (63회)</title>
   </programme>
-  <programme start="20261123045500 +0900" stop="20261123052500 +0900" channel="814763.naver">
-    <title lang="ko">엄마가 미쳤어요</title>
+  <programme start="20261123221000 +0900" stop="20261123233000 +0900" channel="C17142.tving">
+    <title lang="ko">기막힌 이야기 실제상황 (270회)</title>
   </programme>
-  <programme start="20261123052500 +0900" stop="20261123060000 +0900" channel="814763.naver">
-    <title lang="ko">엄마가 미쳤어요</title>
+  <programme start="20261123233000 +0900" stop="20261124005000 +0900" channel="C17142.tving">
+    <title lang="ko">신들의 사생활 :그리스 로마 신화2 (8회)</title>
   </programme>
-  <programme start="20261123060000 +0900" stop="20261123063000 +0900" channel="814763.naver">
-    <title lang="ko">엄마가 미쳤어요</title>
-  </programme>
-  <programme start="20261123063000 +0900" stop="20261123071000 +0900" channel="814763.naver">
-    <title lang="ko">엄마가 미쳤어요</title>
-  </programme>
-  <programme start="20261123071000 +0900" stop="20261123074000 +0900" channel="814763.naver">
-    <title lang="ko">욕망의 덫</title>
-  </programme>
-  <programme start="20261123074000 +0900" stop="20261123083000 +0900" channel="814763.naver">
-    <title lang="ko">욕망의 덫</title>
-  </programme>
-  <programme start="20261123083000 +0900" stop="20261123090000 +0900" channel="814763.naver">
-    <title lang="ko">욕망의 덫</title>
+  <programme start="20261124005000 +0900" stop="20261124021000 +0900" channel="C17142.tving">
+    <title lang="ko">보스의 노골적 취향 (3회)</title>
   </programme>
   <programme start="20261123090000 +0900" stop="20261123095000 +0900" channel="814763.naver">
     <title lang="ko">욕망의 덫</title>
@@ -1140,20 +1059,20 @@
   <programme start="20261123180000 +0900" stop="20261123192500 +0900" channel="814763.naver">
     <title lang="ko">문무</title>
   </programme>
-  <programme start="20261123024000 +0900" stop="20261123040000 +0900" channel="814811.naver">
-    <title lang="ko">신상출시 편스토랑</title>
+  <programme start="20261123192500 +0900" stop="20261123205000 +0900" channel="814763.naver">
+    <title lang="ko">문무</title>
   </programme>
-  <programme start="20261123040000 +0900" stop="20261123050000 +0900" channel="814811.naver">
-    <title lang="ko">걸어서 세계속으로 트래블홀릭</title>
+  <programme start="20261123205000 +0900" stop="20261123220500 +0900" channel="814763.naver">
+    <title lang="ko">이십세기 힛-트쏭</title>
   </programme>
-  <programme start="20261123050000 +0900" stop="20261123061000 +0900" channel="814811.naver">
-    <title lang="ko">사장님 귀는 당나귀 귀</title>
+  <programme start="20261123220500 +0900" stop="20261123231000 +0900" channel="814763.naver">
+    <title lang="ko">바다 건너 사랑 2024</title>
   </programme>
-  <programme start="20261123061000 +0900" stop="20261123073000 +0900" channel="814811.naver">
-    <title lang="ko">옥탑방의 문제아들</title>
+  <programme start="20261123231000 +0900" stop="20261124003500 +0900" channel="814763.naver">
+    <title lang="ko">개그콘서트</title>
   </programme>
-  <programme start="20261123073000 +0900" stop="20261123085000 +0900" channel="814811.naver">
-    <title lang="ko">신상출시 편스토랑</title>
+  <programme start="20261124003500 +0900" stop="20261124014000 +0900" channel="814763.naver">
+    <title lang="ko">차트를 달리는 남자</title>
   </programme>
   <programme start="20261123085000 +0900" stop="20261123102500 +0900" channel="814811.naver">
     <title lang="ko">살림하는 남자들 2</title>
@@ -1179,56 +1098,17 @@
   <programme start="20261123182000 +0900" stop="20261123200000 +0900" channel="814811.naver">
     <title lang="ko">더 시즌즈-성시경의 고막남친</title>
   </programme>
-  <programme start="20261123025500 +0900" stop="20261123031000 +0900" channel="815543.naver">
-    <title lang="ko">호기심 천꾹이</title>
+  <programme start="20261123200000 +0900" stop="20261123211000 +0900" channel="814811.naver">
+    <title lang="ko">무엇이든 물어보살</title>
   </programme>
-  <programme start="20261123031000 +0900" stop="20261123032500 +0900" channel="815543.naver">
-    <title lang="ko">호기심 천꾹이</title>
+  <programme start="20261123211000 +0900" stop="20261123222000 +0900" channel="814811.naver">
+    <title lang="ko">무엇이든 물어보살</title>
   </programme>
-  <programme start="20261123032500 +0900" stop="20261123033500 +0900" channel="815543.naver">
-    <title lang="ko">호기심 천꾹이</title>
+  <programme start="20261123222000 +0900" stop="20261123235500 +0900" channel="814811.naver">
+    <title lang="ko">계약결혼</title>
   </programme>
-  <programme start="20261123033500 +0900" stop="20261123035500 +0900" channel="815543.naver">
-    <title lang="ko">호기심 천꾹이</title>
-  </programme>
-  <programme start="20261123035500 +0900" stop="20261123045500 +0900" channel="815543.naver">
-    <title lang="ko">이슈Pick, 쌤과함께</title>
-  </programme>
-  <programme start="20261123045500 +0900" stop="20261123052000 +0900" channel="815543.naver">
-    <title lang="ko">베이블레이드X 시즌2</title>
-  </programme>
-  <programme start="20261123052000 +0900" stop="20261123055500 +0900" channel="815543.naver">
-    <title lang="ko">베이블레이드X 시즌2</title>
-  </programme>
-  <programme start="20261123055500 +0900" stop="20261123062500 +0900" channel="815543.naver">
-    <title lang="ko">TV 유치원</title>
-  </programme>
-  <programme start="20261123062500 +0900" stop="20261123065000 +0900" channel="815543.naver">
-    <title lang="ko">TV 유치원</title>
-  </programme>
-  <programme start="20261123065000 +0900" stop="20261123071000 +0900" channel="815543.naver">
-    <title lang="ko">한글떼</title>
-  </programme>
-  <programme start="20261123071000 +0900" stop="20261123072000 +0900" channel="815543.naver">
-    <title lang="ko">한글떼</title>
-  </programme>
-  <programme start="20261123072000 +0900" stop="20261123074000 +0900" channel="815543.naver">
-    <title lang="ko">블록나라의 알로스 시즌9</title>
-  </programme>
-  <programme start="20261123074000 +0900" stop="20261123075000 +0900" channel="815543.naver">
-    <title lang="ko">블록나라의 알로스 시즌9</title>
-  </programme>
-  <programme start="20261123075000 +0900" stop="20261123080500 +0900" channel="815543.naver">
-    <title lang="ko">블록나라의 알로스 시즌9</title>
-  </programme>
-  <programme start="20261123080500 +0900" stop="20261123082000 +0900" channel="815543.naver">
-    <title lang="ko">블록나라의 알로스 시즌9</title>
-  </programme>
-  <programme start="20261123082000 +0900" stop="20261123084000 +0900" channel="815543.naver">
-    <title lang="ko">마루는 강쥐</title>
-  </programme>
-  <programme start="20261123084000 +0900" stop="20261123085500 +0900" channel="815543.naver">
-    <title lang="ko">마루는 강쥐</title>
+  <programme start="20261123235500 +0900" stop="20261124014000 +0900" channel="814811.naver">
+    <title lang="ko">계약결혼</title>
   </programme>
   <programme start="20261123085500 +0900" stop="20261123090500 +0900" channel="815543.naver">
     <title lang="ko">마루는 강쥐</title>
@@ -1311,20 +1191,59 @@
   <programme start="20261123185000 +0900" stop="20261123191000 +0900" channel="815543.naver">
     <title lang="ko">밍꼬프렌즈</title>
   </programme>
-  <programme start="20261123030000 +0900" stop="20261123040500 +0900" channel="814942.naver">
-    <title lang="ko">서울 1945</title>
+  <programme start="20261123191000 +0900" stop="20261123192000 +0900" channel="815543.naver">
+    <title lang="ko">밍꼬프렌즈</title>
   </programme>
-  <programme start="20261123040500 +0900" stop="20261123045000 +0900" channel="814942.naver">
-    <title lang="ko">생활의 발견</title>
+  <programme start="20261123192000 +0900" stop="20261123193500 +0900" channel="815543.naver">
+    <title lang="ko">밍꼬프렌즈</title>
   </programme>
-  <programme start="20261123045000 +0900" stop="20261123060000 +0900" channel="814942.naver">
-    <title lang="ko">대국민 토크쇼 안녕하세요</title>
+  <programme start="20261123193500 +0900" stop="20261123195000 +0900" channel="815543.naver">
+    <title lang="ko">밍꼬프렌즈</title>
   </programme>
-  <programme start="20261123060000 +0900" stop="20261123074500 +0900" channel="814942.naver">
-    <title lang="ko">인간극장</title>
+  <programme start="20261123195000 +0900" stop="20261123201000 +0900" channel="815543.naver">
+    <title lang="ko">슈크림 토끼 슈야</title>
   </programme>
-  <programme start="20261123074500 +0900" stop="20261123090000 +0900" channel="814942.naver">
-    <title lang="ko">인간극장</title>
+  <programme start="20261123201000 +0900" stop="20261123202000 +0900" channel="815543.naver">
+    <title lang="ko">슈크림 토끼 슈야</title>
+  </programme>
+  <programme start="20261123202000 +0900" stop="20261123203500 +0900" channel="815543.naver">
+    <title lang="ko">슈크림 토끼 슈야</title>
+  </programme>
+  <programme start="20261123203500 +0900" stop="20261123205500 +0900" channel="815543.naver">
+    <title lang="ko">슈크림 토끼 슈야</title>
+  </programme>
+  <programme start="20261123205500 +0900" stop="20261123212000 +0900" channel="815543.naver">
+    <title lang="ko">백앤아 남매튜브 시즌3</title>
+  </programme>
+  <programme start="20261123212000 +0900" stop="20261123215000 +0900" channel="815543.naver">
+    <title lang="ko">백앤아 남매튜브 시즌3</title>
+  </programme>
+  <programme start="20261123215000 +0900" stop="20261123222500 +0900" channel="815543.naver">
+    <title lang="ko">호기심 파워 탐구왕 섭이</title>
+  </programme>
+  <programme start="20261123222500 +0900" stop="20261123225500 +0900" channel="815543.naver">
+    <title lang="ko">호기심 파워 탐구왕 섭이</title>
+  </programme>
+  <programme start="20261123225500 +0900" stop="20261123231000 +0900" channel="815543.naver">
+    <title lang="ko">터닝메카드 갓</title>
+  </programme>
+  <programme start="20261123231000 +0900" stop="20261123232500 +0900" channel="815543.naver">
+    <title lang="ko">터닝메카드 갓</title>
+  </programme>
+  <programme start="20261123232500 +0900" stop="20261123233500 +0900" channel="815543.naver">
+    <title lang="ko">터닝메카드 갓</title>
+  </programme>
+  <programme start="20261123233500 +0900" stop="20261123235500 +0900" channel="815543.naver">
+    <title lang="ko">터닝메카드 갓</title>
+  </programme>
+  <programme start="20261123235500 +0900" stop="20261124002500 +0900" channel="815543.naver">
+    <title lang="ko">어린이동물티비 스페셜 &lt;전국반려동물자랑</title>
+  </programme>
+  <programme start="20261124002500 +0900" stop="20261124005500 +0900" channel="815543.naver">
+    <title lang="ko">어린이동물티비 스페셜 &lt;전국반려동물자랑</title>
+  </programme>
+  <programme start="20261124005500 +0900" stop="20261124011000 +0900" channel="815543.naver">
+    <title lang="ko">슬기로운 탐구생활</title>
   </programme>
   <programme start="20261123090000 +0900" stop="20261123100000 +0900" channel="814942.naver">
     <title lang="ko">한국인의 밥상</title>
@@ -1353,23 +1272,23 @@
   <programme start="20261123184500 +0900" stop="20261123200000 +0900" channel="814942.naver">
     <title lang="ko">인간극장</title>
   </programme>
-  <programme start="20261123024000 +0900" stop="20261123040500 +0900" channel="815555.naver">
-    <title lang="ko">신상출시 편스토랑</title>
+  <programme start="20261123200000 +0900" stop="20261123210000 +0900" channel="814942.naver">
+    <title lang="ko">개그콘서트</title>
   </programme>
-  <programme start="20261123040500 +0900" stop="20261123045000 +0900" channel="815555.naver">
-    <title lang="ko">팔도밥상</title>
+  <programme start="20261123210000 +0900" stop="20261123220000 +0900" channel="814942.naver">
+    <title lang="ko">개그콘서트</title>
   </programme>
-  <programme start="20261123045000 +0900" stop="20261123060500 +0900" channel="815555.naver">
-    <title lang="ko">산너머 남촌에는</title>
+  <programme start="20261123220000 +0900" stop="20261123230000 +0900" channel="814942.naver">
+    <title lang="ko">생로병사의 비밀</title>
   </programme>
-  <programme start="20261123060500 +0900" stop="20261123070500 +0900" channel="815555.naver">
-    <title lang="ko">용의 눈물</title>
+  <programme start="20261123230000 +0900" stop="20261124000000 +0900" channel="814942.naver">
+    <title lang="ko">내고향스페셜 남도지오그래피</title>
   </programme>
-  <programme start="20261123070500 +0900" stop="20261123081000 +0900" channel="815555.naver">
-    <title lang="ko">용의 눈물</title>
+  <programme start="20261124000000 +0900" stop="20261124010000 +0900" channel="814942.naver">
+    <title lang="ko">스모킹 건</title>
   </programme>
-  <programme start="20261123081000 +0900" stop="20261123084000 +0900" channel="815555.naver">
-    <title lang="ko">엄마가 미쳤어요</title>
+  <programme start="20261124010000 +0900" stop="20261124020000 +0900" channel="814942.naver">
+    <title lang="ko">가요무대</title>
   </programme>
   <programme start="20261123084000 +0900" stop="20261123092500 +0900" channel="815555.naver">
     <title lang="ko">엄마가 미쳤어요</title>
@@ -1404,17 +1323,26 @@
   <programme start="20261123185000 +0900" stop="20261123192500 +0900" channel="815555.naver">
     <title lang="ko">우리 집 꿀단지</title>
   </programme>
-  <programme start="20261123020700 +0900" stop="20261123040600 +0900" channel="814774.naver">
-    <title lang="ko">미운 우리 새끼</title>
+  <programme start="20261123192500 +0900" stop="20261123201000 +0900" channel="815555.naver">
+    <title lang="ko">우리 집 꿀단지</title>
   </programme>
-  <programme start="20261123040600 +0900" stop="20261123053700 +0900" channel="814774.naver">
-    <title lang="ko">솔로라서</title>
+  <programme start="20261123201000 +0900" stop="20261123204500 +0900" channel="815555.naver">
+    <title lang="ko">우리 집 꿀단지</title>
   </programme>
-  <programme start="20261123053700 +0900" stop="20261123071400 +0900" channel="814774.naver">
-    <title lang="ko">무엇이든 해줄 지니 비서진</title>
+  <programme start="20261123204500 +0900" stop="20261123213500 +0900" channel="815555.naver">
+    <title lang="ko">우리 집 꿀단지</title>
   </programme>
-  <programme start="20261123071400 +0900" stop="20261123083700 +0900" channel="814774.naver">
-    <title lang="ko">굿파트너 2</title>
+  <programme start="20261123213500 +0900" stop="20261123225000 +0900" channel="815555.naver">
+    <title lang="ko">부부클리닉 사랑과 전쟁</title>
+  </programme>
+  <programme start="20261123225000 +0900" stop="20261124000000 +0900" channel="815555.naver">
+    <title lang="ko">부부클리닉 사랑과 전쟁</title>
+  </programme>
+  <programme start="20261124000000 +0900" stop="20261124005000 +0900" channel="815555.naver">
+    <title lang="ko">부부클리닉 사랑과 전쟁</title>
+  </programme>
+  <programme start="20261124005000 +0900" stop="20261124015500 +0900" channel="815555.naver">
+    <title lang="ko">걸어서 세계속으로 트래블홀릭</title>
   </programme>
   <programme start="20261123083700 +0900" stop="20261123100200 +0900" channel="814774.naver">
     <title lang="ko">굿파트너 2</title>
@@ -1437,20 +1365,14 @@
   <programme start="20261123184500 +0900" stop="20261123200600 +0900" channel="814774.naver">
     <title lang="ko">굿파트너 2</title>
   </programme>
-  <programme start="20261123023700 +0900" stop="20261123033900 +0900" channel="814799.naver">
-    <title lang="ko">리뷰 액츄얼리</title>
+  <programme start="20261123200600 +0900" stop="20261123212700 +0900" channel="814774.naver">
+    <title lang="ko">굿파트너 2</title>
   </programme>
-  <programme start="20261123033900 +0900" stop="20261123040100 +0900" channel="814799.naver">
-    <title lang="ko">TV 동물농장 스페셜</title>
+  <programme start="20261123212700 +0900" stop="20261123233000 +0900" channel="814774.naver">
+    <title lang="ko">미운 우리 새끼</title>
   </programme>
-  <programme start="20261123040100 +0900" stop="20261123052200 +0900" channel="814799.naver">
-    <title lang="ko">솔로라서</title>
-  </programme>
-  <programme start="20261123052200 +0900" stop="20261123053800 +0900" channel="814799.naver">
-    <title lang="ko">맨 인 블랙박스</title>
-  </programme>
-  <programme start="20261123053800 +0900" stop="20261123071700 +0900" channel="814799.naver">
-    <title lang="ko">꼬리에 꼬리를 무는 그날 이야기</title>
+  <programme start="20261123233000 +0900" stop="20261124010700 +0900" channel="814774.naver">
+    <title lang="ko">신빨 토크쇼 귀묘한 이야기 2</title>
   </programme>
   <programme start="20261123071700 +0900" stop="20261123092500 +0900" channel="814799.naver">
     <title lang="ko">미운 우리 새끼</title>
@@ -1473,17 +1395,17 @@
   <programme start="20261123175700 +0900" stop="20261123200600 +0900" channel="814799.naver">
     <title lang="ko">미운 우리 새끼</title>
   </programme>
-  <programme start="20261123030000 +0900" stop="20261123040200 +0900" channel="10252080.naver">
-    <title lang="ko">밝히는 가 : 하우스 스페셜</title>
+  <programme start="20261123200600 +0900" stop="20261123214700 +0900" channel="814799.naver">
+    <title lang="ko">무엇이든 해줄 지니 비서진</title>
   </programme>
-  <programme start="20261123040200 +0900" stop="20261123054200 +0900" channel="10252080.naver">
-    <title lang="ko">더 쇼</title>
+  <programme start="20261123214700 +0900" stop="20261123234500 +0900" channel="814799.naver">
+    <title lang="ko">런닝맨</title>
   </programme>
-  <programme start="20261123054200 +0900" stop="20261123070900 +0900" channel="10252080.naver">
-    <title lang="ko">신빨 토크쇼 귀묘한 이야기</title>
+  <programme start="20261123234500 +0900" stop="20261124010000 +0900" channel="814799.naver">
+    <title lang="ko">접속! 무비월드</title>
   </programme>
-  <programme start="20261123070900 +0900" stop="20261123081000 +0900" channel="10252080.naver">
-    <title lang="ko">고려기프트 트롯팬덤 골프최강전</title>
+  <programme start="20261124010000 +0900" stop="20261124030200 +0900" channel="814799.naver">
+    <title lang="ko">미운 우리 새끼</title>
   </programme>
   <programme start="20261123081000 +0900" stop="20261123091500 +0900" channel="10252080.naver">
     <title lang="ko">김석훈의 어!여기봐라</title>
@@ -1509,20 +1431,14 @@
   <programme start="20261123181800 +0900" stop="20261123200000 +0900" channel="10252080.naver">
     <title lang="ko">동상이몽 2 너는 내 운명</title>
   </programme>
-  <programme start="20261123014000 +0900" stop="20261123041000 +0900" channel="814879.naver">
-    <title lang="ko">KLPGA 2026 하이원리조트 드림투어</title>
+  <programme start="20261123200000 +0900" stop="20261123221200 +0900" channel="10252080.naver">
+    <title lang="ko">더 트롯 쇼</title>
   </programme>
-  <programme start="20261123041000 +0900" stop="20261123051000 +0900" channel="814879.naver">
-    <title lang="ko">2026 서산수 메디카코리아 맞수한판</title>
+  <programme start="20261123221200 +0900" stop="20261123233400 +0900" channel="10252080.naver">
+    <title lang="ko">TV 동물농장</title>
   </programme>
-  <programme start="20261123051000 +0900" stop="20261123060000 +0900" channel="814879.naver">
-    <title lang="ko">2026 넥센 세인트나인 우리동호회 Masters</title>
-  </programme>
-  <programme start="20261123060000 +0900" stop="20261123073000 +0900" channel="814879.naver">
-    <title lang="ko">2026 KGA 코오롱 제68회 한국오픈골프선수권대회 하이라이트</title>
-  </programme>
-  <programme start="20261123073000 +0900" stop="20261123084000 +0900" channel="814879.naver">
-    <title lang="ko">SBS골프 아카데미</title>
+  <programme start="20261123233400 +0900" stop="20261124010700 +0900" channel="10252080.naver">
+    <title lang="ko">꼬리에 꼬리를 무는 그날 이야기 시즌3</title>
   </programme>
   <programme start="20261123084000 +0900" stop="20261123091000 +0900" channel="814879.naver">
     <title lang="ko">임진한의 이지골프</title>
@@ -1548,14 +1464,23 @@
   <programme start="20261123190000 +0900" stop="20261123203000 +0900" channel="814879.naver">
     <title lang="ko">2026 KLPGA BC카드 한경 제48회 KLPGA 챔피언십 하이라이트</title>
   </programme>
-  <programme start="20261123013000 +0900" stop="20261123040000 +0900" channel="815006.naver">
-    <title lang="ko">2024 KLPGA S-OIL 챔피언십</title>
+  <programme start="20261123203000 +0900" stop="20261123210000 +0900" channel="814879.naver">
+    <title lang="ko">인사이드 KLPGA</title>
   </programme>
-  <programme start="20261123040000 +0900" stop="20261123063000 +0900" channel="815006.naver">
-    <title lang="ko">2025 제네시스 챔피언십</title>
+  <programme start="20261123210000 +0900" stop="20261123220000 +0900" channel="814879.naver">
+    <title lang="ko">2026 마코스포츠 파크골프 클럽 최강전</title>
   </programme>
-  <programme start="20261123063000 +0900" stop="20261123080000 +0900" channel="815006.naver">
-    <title lang="ko">제1회 푸르지오 아덴힐CC 아마추어 마스터즈 챔피언십</title>
+  <programme start="20261123220000 +0900" stop="20261123230000 +0900" channel="814879.naver">
+    <title lang="ko">2026 키움증권 고교동창 골프 최강전</title>
+  </programme>
+  <programme start="20261123230000 +0900" stop="20261124000000 +0900" channel="814879.naver">
+    <title lang="ko">고려기프트 트롯팬덤 골프최강전</title>
+  </programme>
+  <programme start="20261124000000 +0900" stop="20261124004000 +0900" channel="814879.naver">
+    <title lang="ko">인사이드 KLPGA</title>
+  </programme>
+  <programme start="20261124004000 +0900" stop="20261124013000 +0900" channel="814879.naver">
+    <title lang="ko">2026 마코스포츠 파크골프 클럽 최강전</title>
   </programme>
   <programme start="20261123080000 +0900" stop="20261123103000 +0900" channel="815006.naver">
     <title lang="ko">2026 KPGA 투어 하나은행 인비테이셔널</title>
@@ -1578,14 +1503,20 @@
   <programme start="20261123173000 +0900" stop="20261123200000 +0900" channel="815006.naver">
     <title lang="ko">2026 KPGA투어 우리금융 챔피언십</title>
   </programme>
-  <programme start="20261123030100 +0900" stop="20261123051300 +0900" channel="814863.naver">
-    <title lang="ko">친환경 건축자재 에스와이 LPBA 챔피언십 26-27</title>
+  <programme start="20261123200000 +0900" stop="20261123210000 +0900" channel="815006.naver">
+    <title lang="ko">로테이션 클럽</title>
   </programme>
-  <programme start="20261123051300 +0900" stop="20261123061300 +0900" channel="814863.naver">
-    <title lang="ko">26-27 ISU 쇼트트랙 월드투어 3차 하이라이트</title>
+  <programme start="20261123210000 +0900" stop="20261123220000 +0900" channel="815006.naver">
+    <title lang="ko">2026 벤제프 클럽챔피언십</title>
   </programme>
-  <programme start="20261123061300 +0900" stop="20261123071200 +0900" channel="814863.naver">
-    <title lang="ko">26-27 ISU 스피드스케이팅 월드컵 2차 하이라이트</title>
+  <programme start="20261123220000 +0900" stop="20261123230000 +0900" channel="815006.naver">
+    <title lang="ko">SBS골프 클리닉</title>
+  </programme>
+  <programme start="20261123230000 +0900" stop="20261124000000 +0900" channel="815006.naver">
+    <title lang="ko">골프에 반하다</title>
+  </programme>
+  <programme start="20261124000000 +0900" stop="20261124013000 +0900" channel="815006.naver">
+    <title lang="ko">2026 KPGA투어 더 채리티 클래식 2026 하이라이트</title>
   </programme>
   <programme start="20261123071200 +0900" stop="20261123091400 +0900" channel="814863.naver">
     <title lang="ko">26-27 V-리그 여자부</title>
@@ -1608,20 +1539,17 @@
   <programme start="20261123190100 +0900" stop="20261123200200 +0900" channel="814863.naver">
     <title lang="ko">주간배구</title>
   </programme>
-  <programme start="20261123023000 +0900" stop="20261123033000 +0900" channel="814910.naver">
-    <title lang="ko">빅퀘스천</title>
+  <programme start="20261123200200 +0900" stop="20261123202500 +0900" channel="814863.naver">
+    <title lang="ko">26-27 ISU 쇼트트랙 월드투어 메달 모음</title>
   </programme>
-  <programme start="20261123033000 +0900" stop="20261123040000 +0900" channel="814910.naver">
-    <title lang="ko">[평소 쓰던 뿔테인데...커닝범 몰릴라]뉴스 톺아보기</title>
+  <programme start="20261123202500 +0900" stop="20261123223300 +0900" channel="814863.naver">
+    <title lang="ko">휴온스 LPBA 챔피언십 26-27</title>
   </programme>
-  <programme start="20261123040000 +0900" stop="20261123050000 +0900" channel="814910.naver">
-    <title lang="ko">[또 무너진 증시, 살아날 힘은?]경제현장 오늘</title>
+  <programme start="20261123223300 +0900" stop="20261123225500 +0900" channel="814863.naver">
+    <title lang="ko">26-27 V-리그 클라이맥스</title>
   </programme>
-  <programme start="20261123050000 +0900" stop="20261123060000 +0900" channel="814910.naver">
-    <title lang="ko">['IPO 최대어' 앤트로픽 상장]용감한 토크쇼 직설</title>
-  </programme>
-  <programme start="20261123060000 +0900" stop="20261123080000 +0900" channel="814910.naver">
-    <title lang="ko">모닝벨</title>
+  <programme start="20261123225500 +0900" stop="20261124010600 +0900" channel="814863.naver">
+    <title lang="ko">휴온스 PBA 챔피언십 26-27</title>
   </programme>
   <programme start="20261123080000 +0900" stop="20261123100000 +0900" channel="814910.naver">
     <title lang="ko">[불안한 투심 속 돌파구는?]머니쇼</title>
@@ -1659,17 +1587,23 @@
   <programme start="20261123190000 +0900" stop="20261123193000 +0900" channel="814910.naver">
     <title lang="ko">휴먼다큐 시장 사람들</title>
   </programme>
-  <programme start="20261123025500 +0900" stop="20261123041100 +0900" channel="814817.naver">
-    <title lang="ko">라이어</title>
+  <programme start="20261123193000 +0900" stop="20261123203000 +0900" channel="814910.naver">
+    <title lang="ko">오늘 경제 안녕하십니까?</title>
   </programme>
-  <programme start="20261123041100 +0900" stop="20261123050000 +0900" channel="814817.naver">
-    <title lang="ko">60분 드라마 2016</title>
+  <programme start="20261123203000 +0900" stop="20261123213000 +0900" channel="814910.naver">
+    <title lang="ko">금융과 재테크-필살기 고수외전</title>
   </programme>
-  <programme start="20261123050000 +0900" stop="20261123055000 +0900" channel="814817.naver">
-    <title lang="ko">히든 아이 라이브이슈</title>
+  <programme start="20261123213000 +0900" stop="20261123223000 +0900" channel="814910.naver">
+    <title lang="ko">순간포착 세상에 이런일이</title>
   </programme>
-  <programme start="20261123055000 +0900" stop="20261123074000 +0900" channel="814817.naver">
-    <title lang="ko">히든 아이</title>
+  <programme start="20261123223000 +0900" stop="20261123233000 +0900" channel="814910.naver">
+    <title lang="ko">금융과 재테크-투자리포트 주식의 발견</title>
+  </programme>
+  <programme start="20261123233000 +0900" stop="20261124003000 +0900" channel="814910.naver">
+    <title lang="ko">[AI과잉투자 불안]용감한 토크쇼 직설</title>
+  </programme>
+  <programme start="20261124003000 +0900" stop="20261124013000 +0900" channel="814910.naver">
+    <title lang="ko">오늘 경제 안녕하십니까?</title>
   </programme>
   <programme start="20261123074000 +0900" stop="20261123092000 +0900" channel="814817.naver">
     <title lang="ko">계약 결혼</title>
@@ -1695,20 +1629,14 @@
   <programme start="20261123185000 +0900" stop="20261123204000 +0900" channel="814817.naver">
     <title lang="ko">나 혼자 산다</title>
   </programme>
-  <programme start="20261123023900 +0900" stop="20261123031700 +0900" channel="814870.naver">
-    <title lang="ko">최애데뷔</title>
+  <programme start="20261123204000 +0900" stop="20261123223000 +0900" channel="814817.naver">
+    <title lang="ko">히든 아이</title>
   </programme>
-  <programme start="20261123031700 +0900" stop="20261123040400 +0900" channel="814870.naver">
-    <title lang="ko">히든아이 라이브 이슈 스페셜</title>
+  <programme start="20261123223000 +0900" stop="20261124000000 +0900" channel="814817.naver">
+    <title lang="ko">계약 결혼</title>
   </programme>
-  <programme start="20261123040400 +0900" stop="20261123050300 +0900" channel="814870.naver">
-    <title lang="ko">전지적 참견 시점</title>
-  </programme>
-  <programme start="20261123050300 +0900" stop="20261123054900 +0900" channel="814870.naver">
-    <title lang="ko">나 혼자 산다</title>
-  </programme>
-  <programme start="20261123054900 +0900" stop="20261123072800 +0900" channel="814870.naver">
-    <title lang="ko">지옥의 짬밥</title>
+  <programme start="20261124000000 +0900" stop="20261124012000 +0900" channel="814817.naver">
+    <title lang="ko">계약 결혼</title>
   </programme>
   <programme start="20261123072800 +0900" stop="20261123091500 +0900" channel="814870.naver">
     <title lang="ko">히든아이</title>
@@ -1746,29 +1674,14 @@
   <programme start="20261123185900 +0900" stop="20261123204900 +0900" channel="814870.naver">
     <title lang="ko">히든아이</title>
   </programme>
-  <programme start="20261123025600 +0900" stop="20261123040400 +0900" channel="814944.naver">
-    <title lang="ko">궁</title>
+  <programme start="20261123204900 +0900" stop="20261123223300 +0900" channel="814870.naver">
+    <title lang="ko">히든아이</title>
   </programme>
-  <programme start="20261123040400 +0900" stop="20261123050400 +0900" channel="814944.naver">
-    <title lang="ko">60분 드라마</title>
+  <programme start="20261123223300 +0900" stop="20261124001600 +0900" channel="814870.naver">
+    <title lang="ko">히든아이</title>
   </programme>
-  <programme start="20261123050400 +0900" stop="20261123052900 +0900" channel="814944.naver">
-    <title lang="ko">쇼킹 받는 차트 스페셜</title>
-  </programme>
-  <programme start="20261123052900 +0900" stop="20261123060700 +0900" channel="814944.naver">
-    <title lang="ko">쇼킹 받는 차트 스페셜</title>
-  </programme>
-  <programme start="20261123060700 +0900" stop="20261123063100 +0900" channel="814944.naver">
-    <title lang="ko">휴먼다큐 시장사람들</title>
-  </programme>
-  <programme start="20261123063100 +0900" stop="20261123070800 +0900" channel="814944.naver">
-    <title lang="ko">휴먼다큐 시장사람들</title>
-  </programme>
-  <programme start="20261123070800 +0900" stop="20261123073400 +0900" channel="814944.naver">
-    <title lang="ko">휴먼다큐 시장사람들</title>
-  </programme>
-  <programme start="20261123073400 +0900" stop="20261123081200 +0900" channel="814944.naver">
-    <title lang="ko">휴먼다큐 시장사람들</title>
+  <programme start="20261124001600 +0900" stop="20261124014900 +0900" channel="814870.naver">
+    <title lang="ko">오은영 리포트 결혼지옥</title>
   </programme>
   <programme start="20261123081200 +0900" stop="20261123093000 +0900" channel="814944.naver">
     <title lang="ko">당신은 너무합니다</title>
@@ -1806,23 +1719,23 @@
   <programme start="20261123182100 +0900" stop="20261123191400 +0900" channel="814944.naver">
     <title lang="ko">전원일기</title>
   </programme>
-  <programme start="20261123030000 +0900" stop="20261123040000 +0900" channel="815052.naver">
-    <title lang="ko">지금은 전국시대</title>
+  <programme start="20261123191400 +0900" stop="20261123201100 +0900" channel="814944.naver">
+    <title lang="ko">전원일기</title>
   </programme>
-  <programme start="20261123040000 +0900" stop="20261123050000 +0900" channel="815052.naver">
-    <title lang="ko">다큐에세이 그사람</title>
+  <programme start="20261123201100 +0900" stop="20261123211000 +0900" channel="814944.naver">
+    <title lang="ko">전원일기</title>
   </programme>
-  <programme start="20261123050000 +0900" stop="20261123060000 +0900" channel="815052.naver">
-    <title lang="ko">다큐 나는 산다</title>
+  <programme start="20261123211000 +0900" stop="20261123220300 +0900" channel="814944.naver">
+    <title lang="ko">전원일기</title>
   </programme>
-  <programme start="20261123060000 +0900" stop="20261123070000 +0900" channel="815052.naver">
-    <title lang="ko">일상수집</title>
+  <programme start="20261123220300 +0900" stop="20261123230000 +0900" channel="814944.naver">
+    <title lang="ko">전원일기</title>
   </programme>
-  <programme start="20261123070000 +0900" stop="20261123080000 +0900" channel="815052.naver">
-    <title lang="ko">오지랖 보건실 시즌2</title>
+  <programme start="20261123230000 +0900" stop="20261123235400 +0900" channel="814944.naver">
+    <title lang="ko">가을의 기적 2026</title>
   </programme>
-  <programme start="20261123080000 +0900" stop="20261123090000 +0900" channel="815052.naver">
-    <title lang="ko">지금은 전국시대</title>
+  <programme start="20261123235400 +0900" stop="20261124011100 +0900" channel="814944.naver">
+    <title lang="ko">당신은 너무합니다</title>
   </programme>
   <programme start="20261123090000 +0900" stop="20261123100000 +0900" channel="815052.naver">
     <title lang="ko">사람, 산</title>
@@ -1857,41 +1770,23 @@
   <programme start="20261123190000 +0900" stop="20261123200000 +0900" channel="815052.naver">
     <title lang="ko">어부의 만찬</title>
   </programme>
-  <programme start="20261123030000 +0900" stop="20261123060000 +0900" channel="2438226.naver">
-    <title lang="ko">방송시간이 아닙니다(6시부터 방송예정)</title>
+  <programme start="20261123200000 +0900" stop="20261123210000 +0900" channel="815052.naver">
+    <title lang="ko">어영차 바다야</title>
   </programme>
-  <programme start="20261123060000 +0900" stop="20261123061000 +0900" channel="2438226.naver">
-    <title lang="ko">매일 10분 영어 - 이현석의 정면돌파 스피킹</title>
+  <programme start="20261123210000 +0900" stop="20261123220000 +0900" channel="815052.naver">
+    <title lang="ko">어영차 바다야</title>
   </programme>
-  <programme start="20261123061000 +0900" stop="20261123062000 +0900" channel="2438226.naver">
-    <title lang="ko">매일 10분 영어 - 세리나의 누구나 톡톡</title>
+  <programme start="20261123220000 +0900" stop="20261123230000 +0900" channel="815052.naver">
+    <title lang="ko">다큐에세이 그사람</title>
   </programme>
-  <programme start="20261123062000 +0900" stop="20261123065000 +0900" channel="2438226.naver">
-    <title lang="ko">EBSe 생활영어</title>
+  <programme start="20261123230000 +0900" stop="20261124000000 +0900" channel="815052.naver">
+    <title lang="ko">다큐 나는 산다</title>
   </programme>
-  <programme start="20261123065000 +0900" stop="20261123070000 +0900" channel="2438226.naver">
-    <title lang="ko">영어 스토리 타임</title>
+  <programme start="20261124000000 +0900" stop="20261124010000 +0900" channel="815052.naver">
+    <title lang="ko">밀톡 시즌3</title>
   </programme>
-  <programme start="20261123070000 +0900" stop="20261123073000 +0900" channel="2438226.naver">
-    <title lang="ko">왕초보 영어</title>
-  </programme>
-  <programme start="20261123073000 +0900" stop="20261123080000 +0900" channel="2438226.naver">
-    <title lang="ko">왕초보 영어</title>
-  </programme>
-  <programme start="20261123080000 +0900" stop="20261123081000 +0900" channel="2438226.naver">
-    <title lang="ko">매일 10분 영어 - 크리스틴 조의 슬기로운 출근영어</title>
-  </programme>
-  <programme start="20261123081000 +0900" stop="20261123082000 +0900" channel="2438226.naver">
-    <title lang="ko">매일 10분 영어 - 메이슨의 패턴 잉글리시</title>
-  </programme>
-  <programme start="20261123082000 +0900" stop="20261123083000 +0900" channel="2438226.naver">
-    <title lang="ko">매일 10분 영어 - 이근철의 하루 딱! 한문장 try again</title>
-  </programme>
-  <programme start="20261123083000 +0900" stop="20261123084500 +0900" channel="2438226.naver">
-    <title lang="ko">EBS 평생학교</title>
-  </programme>
-  <programme start="20261123084500 +0900" stop="20261123090000 +0900" channel="2438226.naver">
-    <title lang="ko">AI 고전 역사를 바꾼 100책</title>
+  <programme start="20261124010000 +0900" stop="20261124020000 +0900" channel="815052.naver">
+    <title lang="ko">지금은 전국시대</title>
   </programme>
   <programme start="20261123090000 +0900" stop="20261123093000 +0900" channel="2438226.naver">
     <title lang="ko">Sesame Street(S54)</title>
@@ -1986,32 +1881,56 @@
   <programme start="20261123190000 +0900" stop="20261123192000 +0900" channel="2438226.naver">
     <title lang="ko">딩동댕 딩동댕</title>
   </programme>
-  <programme start="20261123022000 +0900" stop="20261123032000 +0900" channel="814967.naver">
-    <title lang="ko">[2027 수능 기출의 미래] 영어독해</title>
+  <programme start="20261123192000 +0900" stop="20261123193500 +0900" channel="2438226.naver">
+    <title lang="ko">슈퍼두퍼 잉글리시</title>
   </programme>
-  <programme start="20261123032000 +0900" stop="20261123042000 +0900" channel="814967.naver">
-    <title lang="ko">[2027 수능 기출의 미래] 영어 어법 어휘</title>
+  <programme start="20261123193500 +0900" stop="20261123195000 +0900" channel="2438226.naver">
+    <title lang="ko">슈퍼두퍼 잉글리시</title>
   </programme>
-  <programme start="20261123042000 +0900" stop="20261123043000 +0900" channel="814967.naver">
-    <title lang="ko">문화유산 코리아</title>
+  <programme start="20261123195000 +0900" stop="20261123202000 +0900" channel="2438226.naver">
+    <title lang="ko">메카 빌더</title>
   </programme>
-  <programme start="20261123043000 +0900" stop="20261123050000 +0900" channel="814967.naver">
-    <title lang="ko">공부의 왕도</title>
+  <programme start="20261123202000 +0900" stop="20261123203000 +0900" channel="2438226.naver">
+    <title lang="ko">덩이랑 쾡이랑 인물 한국사</title>
   </programme>
-  <programme start="20261123050000 +0900" stop="20261123053000 +0900" channel="814967.naver">
-    <title lang="ko">EBS 비즈니스 리뷰(종합)</title>
+  <programme start="20261123203000 +0900" stop="20261123204000 +0900" channel="2438226.naver">
+    <title lang="ko">덩이랑 쾡이랑 인물 한국사</title>
   </programme>
-  <programme start="20261123053000 +0900" stop="20261123062000 +0900" channel="814967.naver">
-    <title lang="ko">[수능 빌드업] 정승익, 김제희의 영어독해</title>
+  <programme start="20261123204000 +0900" stop="20261123210000 +0900" channel="2438226.naver">
+    <title lang="ko">보통의 기록 회고</title>
   </programme>
-  <programme start="20261123062000 +0900" stop="20261123071000 +0900" channel="814967.naver">
-    <title lang="ko">[개념완성] 물리학 (2022 개정)</title>
+  <programme start="20261123210000 +0900" stop="20261123210500 +0900" channel="2438226.naver">
+    <title lang="ko">지식채널e(1)</title>
   </programme>
-  <programme start="20261123071000 +0900" stop="20261123080000 +0900" channel="814967.naver">
-    <title lang="ko">[개념완성] 지구과학 (2022 개정)</title>
+  <programme start="20261123210500 +0900" stop="20261123211000 +0900" channel="2438226.naver">
+    <title lang="ko">지식채널e(2)</title>
   </programme>
-  <programme start="20261123080000 +0900" stop="20261123085000 +0900" channel="814967.naver">
-    <title lang="ko">[개념완성] 현대사회와 윤리 (2022 개정)</title>
+  <programme start="20261123211000 +0900" stop="20261123220500 +0900" channel="2438226.naver">
+    <title lang="ko">EBS 스페이스 공감</title>
+  </programme>
+  <programme start="20261123220500 +0900" stop="20261123222500 +0900" channel="2438226.naver">
+    <title lang="ko">클래스 e</title>
+  </programme>
+  <programme start="20261123222500 +0900" stop="20261123230500 +0900" channel="2438226.naver">
+    <title lang="ko">나의 두 번째 교과서</title>
+  </programme>
+  <programme start="20261123230500 +0900" stop="20261123232000 +0900" channel="2438226.naver">
+    <title lang="ko">EBS 비즈니스 리뷰</title>
+  </programme>
+  <programme start="20261123232000 +0900" stop="20261123235000 +0900" channel="2438226.naver">
+    <title lang="ko">EBS 명강</title>
+  </programme>
+  <programme start="20261123235000 +0900" stop="20261123235500 +0900" channel="2438226.naver">
+    <title lang="ko">지식채널e(1)</title>
+  </programme>
+  <programme start="20261123235500 +0900" stop="20261124000000 +0900" channel="2438226.naver">
+    <title lang="ko">지식채널e(2)</title>
+  </programme>
+  <programme start="20261124000000 +0900" stop="20261124005000 +0900" channel="2438226.naver">
+    <title lang="ko">생각의 열쇠, 천 개의 키워드</title>
+  </programme>
+  <programme start="20261124005000 +0900" stop="20261124033000 +0900" channel="2438226.naver">
+    <title lang="ko">방송시간이 아닙니다(6시부터 방송예정)</title>
   </programme>
   <programme start="20261123085000 +0900" stop="20261123094000 +0900" channel="814967.naver">
     <title lang="ko">[개념완성] 사회와 문화 (2022 개정)</title>
@@ -2052,23 +1971,32 @@
   <programme start="20261123182000 +0900" stop="20261123191000 +0900" channel="814967.naver">
     <title lang="ko">[수능 빌드업] 정승익, 김제희의 영어독해</title>
   </programme>
-  <programme start="20261123010000 +0900" stop="20261123040000 +0900" channel="814969.naver">
-    <title lang="ko">방송 시간이 아닙니다(7시부터 방송예정)</title>
+  <programme start="20261123191000 +0900" stop="20261123200000 +0900" channel="814967.naver">
+    <title lang="ko">[올림포스] 미적분II (2022 개정)</title>
   </programme>
-  <programme start="20261123040000 +0900" stop="20261123070000 +0900" channel="814969.naver">
-    <title lang="ko">방송 시간이 아닙니다(7시부터 방송예정)</title>
+  <programme start="20261123200000 +0900" stop="20261123205000 +0900" channel="814967.naver">
+    <title lang="ko">[올림포스] 기하 (2022 개정)</title>
   </programme>
-  <programme start="20261123070000 +0900" stop="20261123073000 +0900" channel="814969.naver">
-    <title lang="ko">EBS 공인중개사 시험대비 강좌</title>
+  <programme start="20261123205000 +0900" stop="20261123214000 +0900" channel="814967.naver">
+    <title lang="ko">[올림포스] 정유빈의 확률과 통계 (2022 개정)</title>
   </programme>
-  <programme start="20261123073000 +0900" stop="20261123080000 +0900" channel="814969.naver">
-    <title lang="ko">물류/유통관리사 시험대비 강좌</title>
+  <programme start="20261123214000 +0900" stop="20261123223000 +0900" channel="814967.naver">
+    <title lang="ko">[개념완성] 현대사회와 윤리 (2022 개정)</title>
   </programme>
-  <programme start="20261123080000 +0900" stop="20261123083000 +0900" channel="814969.naver">
-    <title lang="ko">EBS 공인중개사 시험대비 강좌</title>
+  <programme start="20261123223000 +0900" stop="20261123232000 +0900" channel="814967.naver">
+    <title lang="ko">[개념완성] 사회와 문화 (2022 개정)</title>
   </programme>
-  <programme start="20261123083000 +0900" stop="20261123090000 +0900" channel="814969.naver">
-    <title lang="ko">물류/유통관리사 시험대비 강좌</title>
+  <programme start="20261123232000 +0900" stop="20261123232500 +0900" channel="814967.naver">
+    <title lang="ko">지식채널e(1)</title>
+  </programme>
+  <programme start="20261123232500 +0900" stop="20261123233000 +0900" channel="814967.naver">
+    <title lang="ko">지식채널e(2)</title>
+  </programme>
+  <programme start="20261123233000 +0900" stop="20261124002000 +0900" channel="814967.naver">
+    <title lang="ko">[수능 빌드업] 통합사회 (2022 개정)</title>
+  </programme>
+  <programme start="20261124002000 +0900" stop="20261124011000 +0900" channel="814967.naver">
+    <title lang="ko">[수능 빌드업] 통합과학 (2022 개정)</title>
   </programme>
   <programme start="20261123090000 +0900" stop="20261123092000 +0900" channel="814969.naver">
     <title lang="ko">한 장 수학2(하)(2022개정)</title>
@@ -2136,56 +2064,53 @@
   <programme start="20261123184000 +0900" stop="20261123191000 +0900" channel="814969.naver">
     <title lang="ko">만점왕 통합본 국어 사회 과학 6-1</title>
   </programme>
-  <programme start="20261123030000 +0900" stop="20261123060000 +0900" channel="814963.naver">
-    <title lang="ko">방송 시간이 아닙니다(6시부터 방송예정)</title>
+  <programme start="20261123191000 +0900" stop="20261123194000 +0900" channel="814969.naver">
+    <title lang="ko">왕초보 영어</title>
   </programme>
-  <programme start="20261123060000 +0900" stop="20261123061000 +0900" channel="814963.naver">
-    <title lang="ko">매일 10분 영어 - 지나킴의 고고 리스닝</title>
+  <programme start="20261123194000 +0900" stop="20261123195000 +0900" channel="814969.naver">
+    <title lang="ko">[중2] 포텐 과학(2022개정)</title>
   </programme>
-  <programme start="20261123061000 +0900" stop="20261123062000 +0900" channel="814963.naver">
-    <title lang="ko">매일 10분 영어 - 크리스틴 조의 슬기로운 출근영어</title>
+  <programme start="20261123195000 +0900" stop="20261123202000 +0900" channel="814969.naver">
+    <title lang="ko">만점왕 영어 따라 쓰는 영문법 3</title>
   </programme>
-  <programme start="20261123062000 +0900" stop="20261123063000 +0900" channel="814963.naver">
-    <title lang="ko">매일 10분 영어 - 세리나의 누구나 톡톡</title>
+  <programme start="20261123202000 +0900" stop="20261123203000 +0900" channel="814969.naver">
+    <title lang="ko">포텐 역사 1</title>
   </programme>
-  <programme start="20261123063000 +0900" stop="20261123064000 +0900" channel="814963.naver">
-    <title lang="ko">매일 10분 영어 - 이현석의 정면돌파 스피킹</title>
+  <programme start="20261123203000 +0900" stop="20261123210000 +0900" channel="814969.naver">
+    <title lang="ko">[20일 완성] 정태형의 EBS 중학 뉴런 역사1 단기특강</title>
   </programme>
-  <programme start="20261123064000 +0900" stop="20261123065000 +0900" channel="814963.naver">
-    <title lang="ko">매일 10분 영어 - 메이슨의 패턴 잉글리시</title>
+  <programme start="20261123210000 +0900" stop="20261123215000 +0900" channel="814969.naver">
+    <title lang="ko">다큐영화 길 위의 인생</title>
   </programme>
-  <programme start="20261123065000 +0900" stop="20261123070000 +0900" channel="814963.naver">
-    <title lang="ko">매일 10분 영어 - 이근철의 하루 딱! 한문장 try again</title>
+  <programme start="20261123215000 +0900" stop="20261123215500 +0900" channel="814969.naver">
+    <title lang="ko">지식채널e(1)</title>
   </programme>
-  <programme start="20261123070000 +0900" stop="20261123071000 +0900" channel="814963.naver">
-    <title lang="ko">매일 10분 영어 - 김승규의 Grammar Inside</title>
+  <programme start="20261123215500 +0900" stop="20261123220000 +0900" channel="814969.naver">
+    <title lang="ko">지식채널e(2)</title>
   </programme>
-  <programme start="20261123071000 +0900" stop="20261123072000 +0900" channel="814963.naver">
-    <title lang="ko">매일 10분 영어 - 박예니의 핏 투비 핏</title>
+  <programme start="20261123220000 +0900" stop="20261123223000 +0900" channel="814969.naver">
+    <title lang="ko">EBS 중학 뉴런 연산3(상)</title>
   </programme>
-  <programme start="20261123072000 +0900" stop="20261123075000 +0900" channel="814963.naver">
-    <title lang="ko">EBSe 생활영어</title>
+  <programme start="20261123223000 +0900" stop="20261123230000 +0900" channel="814969.naver">
+    <title lang="ko">만점왕 국어 4-1</title>
   </programme>
-  <programme start="20261123075000 +0900" stop="20261123080000 +0900" channel="814963.naver">
-    <title lang="ko">쿠킹 클래스</title>
+  <programme start="20261123230000 +0900" stop="20261123232000 +0900" channel="814969.naver">
+    <title lang="ko">클래스 e</title>
   </programme>
-  <programme start="20261123080000 +0900" stop="20261123081000 +0900" channel="814963.naver">
-    <title lang="ko">영어 스토리 타임</title>
+  <programme start="20261123232000 +0900" stop="20261123234000 +0900" channel="814969.naver">
+    <title lang="ko">따라만 오세요 펀리딩 Step Up!</title>
   </programme>
-  <programme start="20261123081000 +0900" stop="20261123082000 +0900" channel="814963.naver">
-    <title lang="ko">Masha and the Bear</title>
+  <programme start="20261123234000 +0900" stop="20261124001000 +0900" channel="814969.naver">
+    <title lang="ko">만점왕 사회 4-2</title>
   </programme>
-  <programme start="20261123082000 +0900" stop="20261123082500 +0900" channel="814963.naver">
-    <title lang="ko">Peppa Pig</title>
+  <programme start="20261124001000 +0900" stop="20261124004000 +0900" channel="814969.naver">
+    <title lang="ko">만점왕 국어 6-2</title>
   </programme>
-  <programme start="20261123082500 +0900" stop="20261123083500 +0900" channel="814963.naver">
-    <title lang="ko">Bluey (S3)</title>
+  <programme start="20261124004000 +0900" stop="20261124010000 +0900" channel="814969.naver">
+    <title lang="ko">All in One 중학영어 시즌2</title>
   </programme>
-  <programme start="20261123083500 +0900" stop="20261123084000 +0900" channel="814963.naver">
-    <title lang="ko">NumberBlocks (S4)</title>
-  </programme>
-  <programme start="20261123084000 +0900" stop="20261123090000 +0900" channel="814963.naver">
-    <title lang="ko">따라만 오세요 펀리딩 Step Up!(시즌2)</title>
+  <programme start="20261124010000 +0900" stop="20261124040000 +0900" channel="814969.naver">
+    <title lang="ko">방송 시간이 아닙니다(7시부터 방송예정)</title>
   </programme>
   <programme start="20261123090000 +0900" stop="20261123093000 +0900" channel="814963.naver">
     <title lang="ko">왕초보 영어</title>
@@ -2310,47 +2235,50 @@
   <programme start="20261123190000 +0900" stop="20261123192000 +0900" channel="814963.naver">
     <title lang="ko">All in One 중학영어 시즌2</title>
   </programme>
-  <programme start="20261123030000 +0900" stop="20261123032300 +0900" channel="C04042.tving">
-    <title lang="ko">위치 워치 (24회)</title>
+  <programme start="20261123192000 +0900" stop="20261123194000 +0900" channel="814963.naver">
+    <title lang="ko">따라만 오세요 펀리딩 Step Up!(시즌2)</title>
   </programme>
-  <programme start="20261123032300 +0900" stop="20261123035400 +0900" channel="C04042.tving">
-    <title lang="ko">위치 워치 (25회)</title>
+  <programme start="20261123194000 +0900" stop="20261123200000 +0900" channel="814963.naver">
+    <title lang="ko">김성백의 영어뉴스 핵심패턴</title>
   </programme>
-  <programme start="20261123035400 +0900" stop="20261123041800 +0900" channel="C04042.tving">
-    <title lang="ko">옆집 천사님 때문에 어느샌가 인간적으로 타락한 사연2 (1회)</title>
+  <programme start="20261123200000 +0900" stop="20261123204000 +0900" channel="814963.naver">
+    <title lang="ko">MY GRAMMAR COACH 기초편-전문항</title>
   </programme>
-  <programme start="20261123041800 +0900" stop="20261123044500 +0900" channel="C04042.tving">
-    <title lang="ko">옆집 천사님 때문에 어느샌가 인간적으로 타락한 사연2 (2회)</title>
+  <programme start="20261123204000 +0900" stop="20261123214000 +0900" channel="814963.naver">
+    <title lang="ko">[2027 수능 기출의 미래] 영어독해</title>
   </programme>
-  <programme start="20261123044500 +0900" stop="20261123050800 +0900" channel="C04042.tving">
-    <title lang="ko">옆집 천사님 때문에 어느샌가 인간적으로 타락한 사연2 (3회)</title>
+  <programme start="20261123214000 +0900" stop="20261123221000 +0900" channel="814963.naver">
+    <title lang="ko">왕초보 영어</title>
   </programme>
-  <programme start="20261123050800 +0900" stop="20261123053600 +0900" channel="C04042.tving">
-    <title lang="ko">옆집 천사님 때문에 어느샌가 인간적으로 타락한 사연2 (4회)</title>
+  <programme start="20261123221000 +0900" stop="20261123224000 +0900" channel="814963.naver">
+    <title lang="ko">EBSe 생활영어</title>
   </programme>
-  <programme start="20261123053600 +0900" stop="20261123054700 +0900" channel="C04042.tving">
-    <title lang="ko">버블호텔2 (3회)</title>
+  <programme start="20261123224000 +0900" stop="20261123225000 +0900" channel="814963.naver">
+    <title lang="ko">매일 10분 영어 - 김승규의 Grammar Inside</title>
   </programme>
-  <programme start="20261123054700 +0900" stop="20261123060400 +0900" channel="C04042.tving">
-    <title lang="ko">버블호텔2 (4회)</title>
+  <programme start="20261123225000 +0900" stop="20261123230000 +0900" channel="814963.naver">
+    <title lang="ko">매일 10분 영어 - 박예니의 핏 투비 핏</title>
   </programme>
-  <programme start="20261123060400 +0900" stop="20261123063100 +0900" channel="C04042.tving">
-    <title lang="ko">레고 드림즈2 (5회)</title>
+  <programme start="20261123230000 +0900" stop="20261123231000 +0900" channel="814963.naver">
+    <title lang="ko">매일 10분 영어 - 지나킴의 고고 리스닝</title>
   </programme>
-  <programme start="20261123063100 +0900" stop="20261123070300 +0900" channel="C04042.tving">
-    <title lang="ko">닌자고: 드래곤 라이징 (5회)</title>
+  <programme start="20261123231000 +0900" stop="20261123232000 +0900" channel="814963.naver">
+    <title lang="ko">매일 10분 영어 - 크리스틴 조의 슬기로운 출근영어</title>
   </programme>
-  <programme start="20261123070300 +0900" stop="20261123072600 +0900" channel="C04042.tving">
-    <title lang="ko">뚜식이2 (9회)</title>
+  <programme start="20261123232000 +0900" stop="20261123233000 +0900" channel="814963.naver">
+    <title lang="ko">매일 10분 영어 - 세리나의 누구나 톡톡</title>
   </programme>
-  <programme start="20261123072600 +0900" stop="20261123080000 +0900" channel="C04042.tving">
-    <title lang="ko">뚜식이2 (10회)</title>
+  <programme start="20261123233000 +0900" stop="20261123234000 +0900" channel="814963.naver">
+    <title lang="ko">매일 10분 영어 - 이현석의 정면돌파 스피킹</title>
   </programme>
-  <programme start="20261123080000 +0900" stop="20261123082400 +0900" channel="C04042.tving">
-    <title lang="ko">뚜식이3 (1회)</title>
+  <programme start="20261123234000 +0900" stop="20261123235000 +0900" channel="814963.naver">
+    <title lang="ko">매일 10분 영어 - 메이슨의 패턴 잉글리시</title>
   </programme>
-  <programme start="20261123082400 +0900" stop="20261123090000 +0900" channel="C04042.tving">
-    <title lang="ko">뚜식이3 (2회)</title>
+  <programme start="20261123235000 +0900" stop="20261124000000 +0900" channel="814963.naver">
+    <title lang="ko">매일 10분 영어 - 이근철의 하루 딱! 한문장 try again</title>
+  </programme>
+  <programme start="20261124000000 +0900" stop="20261124030000 +0900" channel="814963.naver">
+    <title lang="ko">방송 시간이 아닙니다(6시부터 방송예정)</title>
   </programme>
   <programme start="20261123090000 +0900" stop="20261123092300 +0900" channel="C04042.tving">
     <title lang="ko">라바 (7회)</title>
@@ -2427,50 +2355,38 @@
   <programme start="20261123185900 +0900" stop="20261123192300 +0900" channel="C04042.tving">
     <title lang="ko">총몇명4 NEW 에피소드 (6회)</title>
   </programme>
-  <programme start="20261123023100 +0900" stop="20261123030400 +0900" channel="C06941.tving">
-    <title lang="ko">츄젠지 선생님의 괴담 강의록 -세상에 기묘한 일 따윈 없다 (자막) (4회)</title>
+  <programme start="20261123192300 +0900" stop="20261123195900 +0900" channel="C04042.tving">
+    <title lang="ko">총몇명4 NEW 에피소드 (7회)</title>
   </programme>
-  <programme start="20261123030400 +0900" stop="20261123032900 +0900" channel="C06941.tving">
-    <title lang="ko">흔한남매의 안흔한일기 3 (11회)</title>
+  <programme start="20261123195900 +0900" stop="20261123202300 +0900" channel="C04042.tving">
+    <title lang="ko">백앤아: 고고프렌즈5 (1회)</title>
   </programme>
-  <programme start="20261123032900 +0900" stop="20261123040300 +0900" channel="C06941.tving">
-    <title lang="ko">흔한남매의 안흔한일기 3 (12회)</title>
+  <programme start="20261123202300 +0900" stop="20261123205900 +0900" channel="C04042.tving">
+    <title lang="ko">백앤아: 고고프렌즈5 (2회)</title>
   </programme>
-  <programme start="20261123040300 +0900" stop="20261123042300 +0900" channel="C06941.tving">
-    <title lang="ko">요괴워치 (40회)</title>
+  <programme start="20261123205900 +0900" stop="20261123212000 +0900" channel="C04042.tving">
+    <title lang="ko">명탐정 코난11 (25회)</title>
   </programme>
-  <programme start="20261123042300 +0900" stop="20261123044300 +0900" channel="C06941.tving">
-    <title lang="ko">요괴워치 (41회)</title>
+  <programme start="20261123212000 +0900" stop="20261123220000 +0900" channel="C04042.tving">
+    <title lang="ko">명탐정 코난11 (26회)</title>
   </programme>
-  <programme start="20261123044300 +0900" stop="20261123051200 +0900" channel="C06941.tving">
-    <title lang="ko">요괴워치 (42회)</title>
+  <programme start="20261123220000 +0900" stop="20261123223400 +0900" channel="C04042.tving">
+    <title lang="ko">귀멸의 칼날: 환락의 거리 편(더빙) (11회)</title>
   </programme>
-  <programme start="20261123051200 +0900" stop="20261123053300 +0900" channel="C06941.tving">
-    <title lang="ko">파파독:개 수상한 이웃 (7회)</title>
+  <programme start="20261123223400 +0900" stop="20261123233000 +0900" channel="C04042.tving">
+    <title lang="ko">귀멸의 칼날: 도공 마을 편(더빙) (1회)</title>
   </programme>
-  <programme start="20261123053300 +0900" stop="20261123055600 +0900" channel="C06941.tving">
-    <title lang="ko">파파독:개 수상한 이웃 (8회)</title>
+  <programme start="20261123233000 +0900" stop="20261124000000 +0900" channel="C04042.tving">
+    <title lang="ko">귀멸의 칼날: 도공 마을 편(더빙) (2회)</title>
   </programme>
-  <programme start="20261123055600 +0900" stop="20261123062900 +0900" channel="C06941.tving">
-    <title lang="ko">파파독:개 수상한 이웃 (9회)</title>
+  <programme start="20261124000000 +0900" stop="20261124002900 +0900" channel="C04042.tving">
+    <title lang="ko">요자쿠라 일가의 대작전2 (19회)</title>
   </programme>
-  <programme start="20261123062900 +0900" stop="20261123063800 +0900" channel="C06941.tving">
-    <title lang="ko">안녕! 틴틴팅클 (11회)</title>
+  <programme start="20261124002900 +0900" stop="20261124010000 +0900" channel="C04042.tving">
+    <title lang="ko">매지컬 익스플로러 (9회)</title>
   </programme>
-  <programme start="20261123063800 +0900" stop="20261123065800 +0900" channel="C06941.tving">
-    <title lang="ko">안녕! 틴틴팅클 (12회)</title>
-  </programme>
-  <programme start="20261123065800 +0900" stop="20261123072200 +0900" channel="C06941.tving">
-    <title lang="ko">인싸가족:봉자&amp;봉두 (3회)</title>
-  </programme>
-  <programme start="20261123072200 +0900" stop="20261123075600 +0900" channel="C06941.tving">
-    <title lang="ko">인싸가족:봉자&amp;봉두 (4회)</title>
-  </programme>
-  <programme start="20261123075600 +0900" stop="20261123081600 +0900" channel="C06941.tving">
-    <title lang="ko">슈뻘맨의 무한도전3 (11회)</title>
-  </programme>
-  <programme start="20261123081600 +0900" stop="20261123083700 +0900" channel="C06941.tving">
-    <title lang="ko">슈뻘맨의 무한도전3 (12회)</title>
+  <programme start="20261124010000 +0900" stop="20261124012800 +0900" channel="C04042.tving">
+    <title lang="ko">학생회에도 구멍은 있다! (8회)</title>
   </programme>
   <programme start="20261123083700 +0900" stop="20261123090800 +0900" channel="C06941.tving">
     <title lang="ko">슈뻘맨의 무한도전3 (13회)</title>
@@ -2568,35 +2484,53 @@
   <programme start="20261123183900 +0900" stop="20261123190800 +0900" channel="C06941.tving">
     <title lang="ko">인싸가족:봉자&amp;봉두3 (2회)</title>
   </programme>
-  <programme start="20261123030000 +0900" stop="20261123033000 +0900" channel="815090.naver">
-    <title lang="ko">인간극장</title>
+  <programme start="20261123190800 +0900" stop="20261123193600 +0900" channel="C06941.tving">
+    <title lang="ko">인싸가족:봉자&amp;봉두3 (3회)</title>
   </programme>
-  <programme start="20261123033000 +0900" stop="20261123042500 +0900" channel="815090.naver">
-    <title lang="ko">역사저널 그날</title>
+  <programme start="20261123193600 +0900" stop="20261123200500 +0900" channel="C06941.tving">
+    <title lang="ko">인싸가족:봉자&amp;봉두3 (4회)</title>
   </programme>
-  <programme start="20261123042500 +0900" stop="20261123044500 +0900" channel="815090.naver">
-    <title lang="ko">추억의 문화영화</title>
+  <programme start="20261123200500 +0900" stop="20261123202900 +0900" channel="C06941.tving">
+    <title lang="ko">원픽은, 흔한남매 리부트 NEW에피소드 (18회)</title>
   </programme>
-  <programme start="20261123044500 +0900" stop="20261123045500 +0900" channel="815090.naver">
-    <title lang="ko">KTV 편성개방 특집</title>
+  <programme start="20261123202900 +0900" stop="20261123210500 +0900" channel="C06941.tving">
+    <title lang="ko">원픽은, 흔한남매 리부트 NEW에피소드 (17회)</title>
   </programme>
-  <programme start="20261123045500 +0900" stop="20261123054000 +0900" channel="815090.naver">
-    <title lang="ko">세계테마기행</title>
+  <programme start="20261123210500 +0900" stop="20261123213500 +0900" channel="C06941.tving">
+    <title lang="ko">떴다! 버섯도리 챌린지3 (17회)</title>
   </programme>
-  <programme start="20261123054000 +0900" stop="20261123062500 +0900" channel="815090.naver">
-    <title lang="ko">세계테마기행</title>
+  <programme start="20261123213500 +0900" stop="20261123221200 +0900" channel="C06941.tving">
+    <title lang="ko">떴다! 버섯도리 챌린지3 (18회)</title>
   </programme>
-  <programme start="20261123062500 +0900" stop="20261123071000 +0900" channel="815090.naver">
-    <title lang="ko">세계테마기행</title>
+  <programme start="20261123221200 +0900" stop="20261123221900 +0900" channel="C06941.tving">
+    <title lang="ko">짱구는 못말려 26 (55회)</title>
   </programme>
-  <programme start="20261123071000 +0900" stop="20261123080000 +0900" channel="815090.naver">
-    <title lang="ko">세계테마기행</title>
+  <programme start="20261123221900 +0900" stop="20261123222600 +0900" channel="C06941.tving">
+    <title lang="ko">짱구는 못말려 26 (56회)</title>
   </programme>
-  <programme start="20261123080000 +0900" stop="20261123083000 +0900" channel="815090.naver">
-    <title lang="ko">나는 국대다</title>
+  <programme start="20261123222600 +0900" stop="20261123223400 +0900" channel="C06941.tving">
+    <title lang="ko">짱구는 못말려 26 (57회)</title>
   </programme>
-  <programme start="20261123083000 +0900" stop="20261123085000 +0900" channel="815090.naver">
-    <title lang="ko">정책 인사이드</title>
+  <programme start="20261123223400 +0900" stop="20261123224100 +0900" channel="C06941.tving">
+    <title lang="ko">짱구는 못말려 26 (58회)</title>
+  </programme>
+  <programme start="20261123224100 +0900" stop="20261123224800 +0900" channel="C06941.tving">
+    <title lang="ko">짱구는 못말려 26 (59회)</title>
+  </programme>
+  <programme start="20261123224800 +0900" stop="20261123230400 +0900" channel="C06941.tving">
+    <title lang="ko">짱구는 못말려 26 (60회)</title>
+  </programme>
+  <programme start="20261123230400 +0900" stop="20261123233900 +0900" channel="C06941.tving">
+    <title lang="ko">호텔 인휴먼즈2 (자막) (8회)</title>
+  </programme>
+  <programme start="20261123233900 +0900" stop="20261124001100 +0900" channel="C06941.tving">
+    <title lang="ko">호텔 인휴먼즈2 (자막) (7회)</title>
+  </programme>
+  <programme start="20261124001100 +0900" stop="20261124003500 +0900" channel="C06941.tving">
+    <title lang="ko">짱구는 못말려 14 (21회)</title>
+  </programme>
+  <programme start="20261124003500 +0900" stop="20261124010700 +0900" channel="C06941.tving">
+    <title lang="ko">짱구는 못말려 14 (22회)</title>
   </programme>
   <programme start="20261123085000 +0900" stop="20261123092000 +0900" channel="815090.naver">
     <title lang="ko">KTV 정책다큐 전환</title>
@@ -2657,5 +2591,38 @@
   </programme>
   <programme start="20261123190000 +0900" stop="20261123193000 +0900" channel="815090.naver">
     <title lang="ko">LIVE 정책 PICK</title>
+  </programme>
+  <programme start="20261123193000 +0900" stop="20261123194000 +0900" channel="815090.naver">
+    <title lang="ko">정책 바로보기</title>
+  </programme>
+  <programme start="20261123194000 +0900" stop="20261123201000 +0900" channel="815090.naver">
+    <title lang="ko">인간극장</title>
+  </programme>
+  <programme start="20261123201000 +0900" stop="20261123204000 +0900" channel="815090.naver">
+    <title lang="ko">인간극장</title>
+  </programme>
+  <programme start="20261123204000 +0900" stop="20261123211000 +0900" channel="815090.naver">
+    <title lang="ko">인간극장</title>
+  </programme>
+  <programme start="20261123211000 +0900" stop="20261123214000 +0900" channel="815090.naver">
+    <title lang="ko">유자식 상팔자</title>
+  </programme>
+  <programme start="20261123214000 +0900" stop="20261123221000 +0900" channel="815090.naver">
+    <title lang="ko">KTV특집</title>
+  </programme>
+  <programme start="20261123221000 +0900" stop="20261123230000 +0900" channel="815090.naver">
+    <title lang="ko">한국인의 밥상</title>
+  </programme>
+  <programme start="20261123230000 +0900" stop="20261124001000 +0900" channel="815090.naver">
+    <title lang="ko">LIVE 정책 K</title>
+  </programme>
+  <programme start="20261124001000 +0900" stop="20261124003000 +0900" channel="815090.naver">
+    <title lang="ko">한국기행</title>
+  </programme>
+  <programme start="20261124003000 +0900" stop="20261124004500 +0900" channel="815090.naver">
+    <title lang="ko">한국기행</title>
+  </programme>
+  <programme start="20261124004500 +0900" stop="20261124010500 +0900" channel="815090.naver">
+    <title lang="ko">한국기행</title>
   </programme>
 </tv>

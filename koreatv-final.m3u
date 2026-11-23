@@ -18,6 +18,7 @@
 
 
 
+
 #EXTINF:-1 tvg-id="814592.naver" tvg-logo="https://backup.760515.xyz/logo/SBS.png",SBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
@@ -38,9 +39,11 @@ https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="814592.naver" tvg-logo="https://backup.760515.xyz/logo/SBS.png",SBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTUzOTU2MDIsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjI5NjZjMzk0LWEzNzUtNDhjZS04NWRhLWVjYjQ5NTAzNDg4OSIsImlhdCI6MTc5NTM4ODQwMn0.sf-0fzhG6i3e8bjO5tE25gqhi5z_T5jokOly5nRD9HA
+https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTU0MDI4MDIsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImQzNTIyNzJmLTQwNTktNDI3ZS1iZWQ4LTNkY2FmOWNiMjBiNyIsImlhdCI6MTc5NTM5NTYwMn0.SRK31WLPAsJuugkt2zigx4gBldSFvDIMhbkDxpUlpmA
+
 
 
 
@@ -69,6 +72,7 @@ https://backup.760515.xyz/playlist/KBS2-playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="814582.naver" tvg-logo="https://backup.760515.xyz/logo/KBS2.png",KBS2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTU1MTcyMTB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=MtUa2HO6knEFE~xB2t6z4Pa07kD2BFJjvARh0Allaa8g0wiCEBhzREp7EJO4K0enJJuMT-6ucUqU5PMY1ZVx9tIgKY1VKiqtRJy8zIgLNuUdf0dYjQnNzDh5hCcmqXnl41a7Wfb780grPdXkOcVp8DefTOcAQa2I542iF6MxpyyqQZzMsyj1-kjaquC5doWXuEQZkyn-lXHOEOI75cbt4OORjwC-mM4fd9KL6hFlNIYbp95BW0-MsIdB2vOglSH7ypz8A3Iohv4~stX3-moJ9r4I4iRvHJsCVK2QfMQ2PXxPDu6U0~YVel0IeVN2XHiPZfkJntZLpZsuW1kxgr2I6g__
@@ -85,9 +89,11 @@ https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIj
 
 
 
+
 #EXTINF:-1 tvg-id="814574.naver" tvg-logo="https://backup.760515.xyz/logo/KBS1.png",KBS1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/KBS1-playlist.m3u8
+
 
 
 
@@ -126,9 +132,11 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="814588.naver" tvg-logo="https://iptv-epg.org/images/Xz-7yCscLbwHSthOwi2o9D6tZORZOy0ZhidiUGJvi0-vo1ZyRx7QbxZ2A3D11gbyjRgTErzxCscPq_ZRazVXK2S2tPrl5BZ2dmXW",MBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/MBC-playlist.m3u8
+
 
 
 
@@ -168,9 +176,11 @@ https://backup.760515.xyz/playlist/tvN-playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="TV조선.kr" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN.png",TV CHOSUN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://gslb-fastcdn.uplus.co.kr/tvchosun.stream/tsmux.noll_master.m3u8
+
 
 
 
@@ -209,9 +219,11 @@ https://backup.760515.xyz/playlist/TV%20CHOSUN-playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="C01582.tving" tvg-logo="https://pjytv.760515.xyz/logo/JTBC.png",JTBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://gslb-fastcdn.uplus.co.kr/jtbc.stream/tsmux.noll_master.m3u8
+
 
 
 
@@ -250,6 +262,7 @@ https://backup.760515.xyz/playlist/JTBC-playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="C01583.tving" tvg-logo="https://pjytv.760515.xyz/logo/채널A.png",채널A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://gslb-fastcdn.uplus.co.kr/channelA_new.stream/tsmux.noll_master.m3u8
@@ -270,9 +283,11 @@ https://gslb-fastcdn.uplus.co.kr/channelA_new.stream/tsmux.noll_master.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="C01583.tving" tvg-logo="https://pjytv.760515.xyz/logo/채널A.png",채널A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/%EC%B1%84%EB%84%90A-playlist.m3u8
+
 
 
 
@@ -313,9 +328,11 @@ https://backup.760515.xyz/playlist/JTBC2-playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="C22041.tving" tvg-logo="https://pjytv.760515.xyz/logo/JTBC4.png",JTBC4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/JTBC4-playlist.m3u8
+
 
 
 
@@ -355,9 +372,11 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="C00585.tving" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN 2.png",TV CHOSUN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/TV%20CHOSUN%202-playlist.m3u8
+
 
 
 
@@ -398,9 +417,11 @@ https://backup.760515.xyz/playlist/tvN%20SHOW-playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="C01143.tving" tvg-logo="https://pjytv.760515.xyz/logo/tvN DRAMA.png",tvN DRAMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/tvN%20DRAMA-playlist.m3u8
+
 
 
 
@@ -440,9 +461,11 @@ https://backup.760515.xyz/playlist/tvN%20STORY-playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="C17141.tving" tvg-logo="https://pjytv.760515.xyz/logo/채널A플러스.png",채널A플러스
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/%EC%B1%84%EB%84%90A%ED%94%8C%EB%9F%AC%EC%8A%A4-playlist.m3u8
+
 
 
 
@@ -480,9 +503,11 @@ https://backup.760515.xyz/playlist/LIFETIME-playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="C00579.tving" tvg-logo="https://pjytv.760515.xyz/logo/Mnet.png",Mnet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/Mnet-playlist.m3u8
+
 
 
 
@@ -521,9 +546,11 @@ https://gslb-fastcdn.uplus.co.kr/mbn.stream/tsmux.noll_master.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="C00708.tving" tvg-logo="https://pjytv.760515.xyz/logo/MBN.png",MBN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/MBN-playlist.m3u8
+
 
 
 
@@ -564,6 +591,7 @@ https://backup.760515.xyz/playlist/%EC%A4%91%ED%99%94TV-playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="C17341.tving" tvg-logo="https://pjytv.760515.xyz/logo/히스토리.png",히스토리
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-playlist.m3u8
@@ -585,9 +613,11 @@ https://backup.760515.xyz/playlist/%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-playlist
 
 
 
+
 #EXTINF:-1 tvg-id="C01723.tving" tvg-logo="https://pjytv.760515.xyz/logo/연합뉴스TV.png",연합뉴스TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4TV-playlist.m3u8
+
 
 
 
@@ -629,6 +659,7 @@ https://jmp2.uk/stvp-KRBD2400001XD
 
 
 
+
 #EXTINF:-1 tvg-id="C17142.tving" tvg-logo="https://pjytv.760515.xyz/logo/MBN 플러스.png",MBN 플러스
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/MBN%20%ED%94%8C%EB%9F%AC%EC%8A%A4-playlist.m3u8
@@ -651,9 +682,11 @@ https://backup.760515.xyz/playlist/MBN%20%ED%94%8C%EB%9F%AC%EC%8A%A4-playlist.m3
 
 
 
+
 #EXTINF:-1 tvg-id="814763.naver" tvg-logo="https://backup.760515.xyz/logo/KBS드라마.png",KBS드라마
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-01/kbsndrama-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NTQzMTE2fX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Lv7n~uj6nzqL52zE-A6VdFxz0sOKTGEjlmZa5A2gSAtnKb9J-CEXatSrMiHwHGMW2hYJKBOm9VBs-8uQ1oXDP-FnLebRPWgq1AWJt~PMI0WKjgy1WBK747m0GFV7uRwwG5pUBmR7qdBGG9QjJZ~UfQH~7q1mchxj8Pu5ojHxE9BocZCYFlVHQyMWpdfR7FU97XeINsWo8raHvJg2IUHQdp2Rz9nnRYI96p-cxvPJ7uH9naGJ5SvvVmZKrVbS2PIKRCWuBTQP5cNA9BvLELUFNis7~GocS7r9lzJKPjlnSI~jyPvErsAL-ODUmEK5GHlN2T5Y8EE-zY9udNCzSiGIhg__
+https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-01/kbsndrama-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NTY0Nzk4fX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=HdsGwYj9l~TxdzBUsGzzfCS0AI2Y~mGTYW0JO-KlXtOtC7ggeXxaYCP~aaUnxBhYIMDrvF7GIAr7b11TOT24cauHwBhEoJtY6x1iq1Sm2AdGUbk29MuIcHwx6wn8QWn5H0trwx0mB-YhFJ6ObZRn3NC4zNs1QryrskUdwfrDhk3W~ERD1C~QB-ggal-1EutLn~XIeiseLFWeLCzqYTSaGE-rrVjV~ztgzgDZA6IqpedBJIM0fPCysvr7F1R0no7tIM-fisETbJaLXXUSP9ft2lnVsutD0wi~9pKb313Tm6ovLL48VFkWocSukbtWhTJOJ7qkTq4s4ibUXb2cj8GA3w__
+
 
 
 
@@ -674,7 +707,8 @@ https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-01/kbsndrama-01_sd.m3u8?Policy=eyJTd
 
 #EXTINF:-1 tvg-id="814811.naver" tvg-logo="https://backup.760515.xyz/logo/KBS조이.png",KBS조이
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTU1NDMxNzF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=mCeXdrOssWeYVaaF1HiO1L6z0qjmcPvFgu9dPdeKPiBMINyqmLvH03fGjq~m70ozpnn8jAE72moOcH50dTIoc~MBsfJsJtcQ5s1CHzupWkUdE~FW7fh-gYq-vydFdJ8XAXpf1e1OOMd01Sldhk2cPFChwCc1c11KyFXAaaR1SKAK8A6sv6aB0~OASz65WONDfbmbEA0El3KXogIeVLVxQNff0elkTZPl2HEzlPK-pfO40QhrcrdRoTLpfdw~~DIUjpfD7qA78rxHI-nl1bU~OF4jKme2arKJzKqB7LBH37rUIAZV7tnxkmZv09yE3SkB6ZcoxjbcbcmMoOjXTDM15Q__
+https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTU1NjQ3NTN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=NBsyox93q8L6QYJplGqeAvNNhN~RgIRlhJpwkmlT26HpQB~MXZpTWRoZxAWan47wdL8Yiu610zRwB7YpI4enr1CNMg6Ftcc~T3Mbb4lFP2MHR2~7ad9KId1DNkubgPMeGcT9bEocRwrX~fCvVOE-tCavbAdT20U-yYw0CMUDXwhEu5HV7m6aTSjwDd8RYI0au4aC3IcY6E-ZFGJ7-irpSe6iurIkjqQUNysP30nWVnepvB9wInQvBlCd8p1mEsAkZBfwSqrGFSCIMqXY7aslCJ2ln0Y-mYsiOLLKhico0VPnudU9bFxEcOL3C94qpjXGjHSMZkW-Ze7cXP1IsNwZgg__
+
 
 
 
@@ -695,7 +729,8 @@ https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Policy=eyJTdGF0ZW1
 
 #EXTINF:-1 tvg-id="815543.naver" tvg-logo="https://backup.760515.xyz/logo/KBS키즈.png",KBS키즈
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-01/kbsnkids-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTU0MzE4M319fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=AmB0qq~XO02zYhLih36pfIsvuVanMvNITiQMfrixoZaykHfdrIJWovQmVlZGC-0hC7QxeP6xLO6v5CdxpClFOYGFyhK5-32kNCcv8qUkDaYUDjEvCw1k-lip0QFdDtxBagGEis7IRKkHAfDZqPTom~bmuJsSNTpMfdKXGUd80AzrdpWeHHhebkNs~s97ruT9WOpcEVS~CbjYKfIWwKX5jE0MqZ1uZtpiMC0U14Jl8-8IMzHtoWv9RJ1y0oUHjZKCMrzyyjl5264Th~eAqgsGCJzWUJcQhNBxmL8pAAo2-L9oTUb~f0LO1g0y4eKh3EU1h8CsMLtZJTrqEKq5wbu7wg__
+https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-01/kbsnkids-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTU2NDc3Mn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=SULevZ7Nz0rmgN3i1Dmrt6wU~7GZrf4G8l-TmuvoPsf6iAzD0C6S4Jy~CCpH2Q~8wOLyV3X2RPIMAKRdXxrqn-kMu62Q8N9gfkiRzg15J~sWe1LH0Ocb2QTU2Q~qSWHLrnLnMRL8IgFSSQ~Z4CV8HOP4y8j2uN4m98FEIjVtFE0csfb6r~QWfi2OCBMn5qpUBVM8KUTDNZUt0rMxb5fQBh7tHh8GNG5kZELHwhUjasuVUDHFzzf8Cp9jssA55n-wkv8hNLc9-ngd~XFm1vcl2XW7S28x1K2-0jzXKdxacB9X-BgOrNic0wlqCEe6XbFDAXE6d684HhNCFZKweaucjA__
+
 
 
 
@@ -716,7 +751,8 @@ https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-01/kbsnkids-01_sd.m3u8?Policy=eyJTdGF0
 
 #EXTINF:-1 tvg-id="814942.naver" tvg-logo="https://backup.760515.xyz/logo/KBS LIFE.png",KBS LIFE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-01/kbsnlife-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTU0MzE4MH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=K1dCrodkNbvqkGyU25r3TmiV00SRJDYu39~egINYwAUXuzC018yD-6sE2z9rDeIsiI84CYO0KtBqrHjaVwbs-6hvBl2ZmUjTCA1MQkHQ11e-JUAtzxd00Xfu0NrsVrYQGzqKuTTe8LhUo0svQVMpUOVS3Eo4PDOlTB0BpWrQlAofFzCM0zU9wzT4GNuwAnr3xk9qJFuOykFLfdsBwOKk7Vsg50cpSUzce6QE4YWC9sPbXkCq~4skCIy6kXGwxXRlkrZqTDCa-ChCQQ-EKzsFPVykKYr6NAU6paaExtCM5BETvrNRS0zdiWH7KhoMWYXWdrjmqdM2YXcGmWZqoyph4A__
+https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-01/kbsnlife-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTU2NDc3NH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=SP2JleCTLiGj5g6vhQUtii2F2RblsNGjvJ6q64kLRbjn687r4HJZ1t1gVI4UqAEVTN54WFxaqamNXPy~9IZYwV3QG0cLy-J8KFQKbjlDJahMm~3I-mzB~nj0rH3Ui4zrxsVOuAawMnzo-yw~dzUQCIXf-gj2fbkCCZRV6cMLtktJr2dXBsZ57uiyihxiC~vni15RhAA0rMHXYP0CXBpU5LTxUnUYcefuLLcz-lw1PaojMCandRsMxtCiTFS5DOBqBdTYcOZlk84n6rx2mb2UZIUkeh0jGpJeILLShRmMscOnivKBuntAGd4CG-1kOTMD~V2IfK~e-YVIJmWSNcHGgw__
+
 
 
 
@@ -737,7 +773,8 @@ https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-01/kbsnlife-01_sd.m3u8?Policy=eyJTdGF0
 
 #EXTINF:-1 tvg-id="815555.naver" tvg-logo="https://backup.760515.xyz/logo/KBS Story.png",KBS Story
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://kbsnw.gscdn.kbs.co.kr/kbsnw-01/kbsnw-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTU0MzE0Mn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Iq5~LHRd~C70UXgQyvJWK-FT7hgirqlWJAeQfuSwCdcB~0fS3UxEijk4YgQ0~NaRL5QUjpGOahQfr~vysJuKNdUa7d6E~A095DFErRsG09PczU~LkaOWj4V5IkkLl4HrzZDGzP1t-17gs6lAKcVGLqfrQMb2PDDAYnVu-zooi69H4aXRVF-c-f~JJh9mFSffMZQ4L5EP2Inl64ayNfxj4bqZCBqSP~wq~gtqVNEqzxvrOtM9-PIuIji~LK17ZQngaHwJoUs08pmjNbrRjtjt8vxSgml9DTGtBESi7FNGXcKA4KX6sSssvRPDphyhbldWKXZmmida9pSg-5orKsxO1g__
+https://kbsnw.gscdn.kbs.co.kr/kbsnw-01/kbsnw-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTU2NDc3NH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=k8BoA8bnQ8XdIoRmqmLL-xx4vs4LxMmynfVN02qdnt6fu4N8B~V6lT81iXiYCiYMBMJke-KgsbSkeUe9snLE5k5vdd8CDZTEWeVWLp5LSQ6Z2vZMwGzmkqJrDy2fEtj7YTiXCb7AvWOLVRnQfop6DaFq8I0hMZkVdJ23JPLCFXhZdDNWJRjprJuF3tlE3GuXFmm5zygXVhaGn6-2Rc~knWBIfSdSc8UNYjp7om~lQ6iDNqNn5b~1DL0BQXu3CWrfChUlZC-1y7icbiDSV3E1-4vj9agGgHPJRrNWBTi05kT0aiPGwqZrII-5LB9C~uUC3kPoiacjKUmBnjPTPLavUA__
+
 
 
 
@@ -758,7 +795,8 @@ https://kbsnw.gscdn.kbs.co.kr/kbsnw-01/kbsnw-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiO
 
 #EXTINF:-1 tvg-id="케이블 KBS WORLD.daum" tvg-logo="https://backup.760515.xyz/logo/KBS WORLD.png",KBS WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://world.gscdn.kbs.co.kr/world-01/world-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTU0MzE2OH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=CQL-zrKDPikNPeeut5g5KSm2TYa7NzLBnnIjTQ4f0dscu-OL3Sn4iTb0-o4slmBYTdU0Ud8g~spCbntzRGEqa~mu41jct4A5aJmClSBomP32IyA7-fblacSNLbPvTb3uclDHJ~H3~98aOuHroYht~X8H90AtLGXxtUG2oR~ZuOpm5w7sPAbH67-w1yvMZ0fZ9pM7lXpiyX73kggEsjzXEXTrb-Ltz4KcIp87WMZMRCiUNpx1n5nPjICaexkTVZmz~CAfvyt2R9OxoFM8kSvlHmwy~fngEygMy1VCGp-VUxtoiKYrpw1~5IYgw7qRZIw-imyPa7CoEQIDTbh54X4~mA__
+https://world.gscdn.kbs.co.kr/world-01/world-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTU2NDc2OX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=NrQxlTafct9Uu0bk48s8kCFy61v4ZLoENAjSG6TE85tUnC4fig3Ml1Mk7TM4yIMGqI4VNFHDewR0QE0j74fZUON~yjMJ0jr9yb4Uo6yY5kmM0sUJxUjVwtoHS9v2yW-QQytom-xhWuW2ZSOkWImJ5vDPvNv7T1ICrLSiYKj7e1ENYJKd2YlgQm50OnNL2zWVxxjr4e3ysr-fTXrIfu7eV7TCj2B7zGFz06oprc~~pc9z8gPMu39lQYsGJmWrjOMANmLgzjnAGEG9fLKSd7RiuGmm~ewz6n8iTBJqbJKXCylA03ofNZnuhX-zPC1wbRoxdskdnalRJMm5n7q3CKTuPg__
+
 
 
 
@@ -779,7 +817,8 @@ https://world.gscdn.kbs.co.kr/world-01/world-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiO
 
 #EXTINF:-1 tvg-id="kr035" tvg-logo="https://backup.760515.xyz/logo/KBS뉴스.png",KBS뉴스
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NTQzMTU3fX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=jnpBsvzmlo~yUAaaWhAnfVVv97916x5TCHEGQEkZw3pr~DOS7F6tDA00lE4IGK0f4-g~cFkc78r8WQcsswHithiNxbKTuhCRHlD4tfiZEaDcLaSDsZoxV5Y6rgDqQIgoToKEBDirFmAENq3IFxySe-wg0U6Z5TU31ho01of4fZWb1nsqxGKs~s19owIGVTTC8fZ~lyh6oLRXXYh93gSk6KdtR5emt-DA8AVf28DtDthLauL9Mw~B7KHqcFYo0G~xO81Md4ww75spvP5fQv9t-Ez9btxE2lRwn82cE8W8Ql18udSWSzYa4yfyTVPYUFHzR8ct7rteaNnHDQNXJM4s8Q__
+https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NTY0Nzk0fX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=b1oR~abqbbGqX71Ynx7C7rNPrV-DRVIKoitD1sEU6CA7nOL~0wCW5HtiO82CVJ1Bzqdh105GVhitSqSVFlly7C4nWj6-885q64NOx~FbWry-TXF9IBKOCR8c5c4ajg78OntwKmXhZAScDVeW1Vk3GK3Qe0Co6yT-LJdZijwHP46Al1so1TqWIooBuCvnpvgZujY~H9Aux4c6MrpVvS98G8wmY9VBneaklDqAHRwRXbNDm~wf8YVFmH2jjRYYT189DCFt5DAb9M-c-ERbjz9m0jMjyIIn~V0uYEFr40mb5n9Bav2wB8~OGBFEo5U6SDGoAPRzEM54QvWsXSfr4n3LZw__
+
 
 
 
@@ -800,7 +839,8 @@ https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Policy=eyJTdGF0ZW1lbn
 
 #EXTINF:-1 tvg-id="814774.naver" tvg-logo="https://backup.760515.xyz/logo/SBS플러스.png",SBS플러스
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://tvlive.sbs.co.kr/sbspluspc/sbsplus1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTUzOTU2MDUsInBhdGgiOiIvc2JzcGx1czEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI4ZGIxMGM4YS02ZDU5LTQ4MDAtYjkxMy0zZWFjNTEyMDUzYjUiLCJpYXQiOjE3OTUzODg0MDV9.MmeqtRlu5m-JKj2t70TtVZyZ8zu-Tptq-a7TyV_wshU
+https://tvlive.sbs.co.kr/sbspluspc/sbsplus1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTU0MDI4MDYsInBhdGgiOiIvc2JzcGx1czEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJjN2Q0N2M3Mi1kZWNhLTQyYmQtYTYzYS1lMjliMmIzOTVjMTEiLCJpYXQiOjE3OTUzOTU2MDZ9.gpyZoBE24_OXhiuxJ0cOP-LoMPRfKrK4LyKvjdrV3xc
+
 
 
 
@@ -821,7 +861,8 @@ https://tvlive.sbs.co.kr/sbspluspc/sbsplus1.stream/playlist.m3u8?token=eyJ0eXAiO
 
 #EXTINF:-1 tvg-id="814799.naver" tvg-logo="https://backup.760515.xyz/logo/SBS퍼니.png",SBS퍼니
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://tvlive.sbs.co.kr/sbsetvpc/sbsetv1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTUzOTU2MTIsInBhdGgiOiIvc2JzZXR2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6Ijg3ZmE1NGJkLTVhN2EtNGEwNy1iYTA2LTI3OGRjMWM1MGRjZSIsImlhdCI6MTc5NTM4ODQxMn0.ITSRyT2Mr50rurEz2y-5d-bs05ZulMJRUtQ_oHtPcNk
+https://tvlive.sbs.co.kr/sbsetvpc/sbsetv1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTU0MDI4MTMsInBhdGgiOiIvc2JzZXR2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImM4YjY5NDMxLTBjYzctNDQ1NC1iNmQ3LWEyYjkxNzdkYzFiZiIsImlhdCI6MTc5NTM5NTYxM30.2Q7gErRfgiFEk15Rnl4INlybHRlY7mg0BN_pzi_CYWQ
+
 
 
 
@@ -842,7 +883,8 @@ https://tvlive.sbs.co.kr/sbsetvpc/sbsetv1.stream/playlist.m3u8?token=eyJ0eXAiOiJ
 
 #EXTINF:-1 tvg-id="10252080.naver" tvg-logo="https://backup.760515.xyz/logo/SBS LIFE.png",SBS LIFE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://tvlive.sbs.co.kr/sbsfil/sbsfil1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTUzOTU2MTYsInBhdGgiOiIvc2JzZmlsMS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6Ijc5MzE3ZWU1LTc0YTYtNDlkYS1hOGZmLWIzNDM5MmVlNmMxYiIsImlhdCI6MTc5NTM4ODQxNn0.8A4-ttMyPwPavZfg_pk4JsuBUuXiHZdF0zdsH0A9Ung
+https://tvlive.sbs.co.kr/sbsfil/sbsfil1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTU0MDI4MTYsInBhdGgiOiIvc2JzZmlsMS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjFmZjE4MGFmLTkwNTgtNDA4ZC05N2U1LTRlYTNkODQ2MzZmZiIsImlhdCI6MTc5NTM5NTYxNn0.wHhqcZowVaI5aa6mBZtY9T9cjLCr477SFWNcaOCuCgk
+
 
 
 
@@ -863,7 +905,8 @@ https://tvlive.sbs.co.kr/sbsfil/sbsfil1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV
 
 #EXTINF:-1 tvg-id="814879.naver" tvg-logo="https://backup.760515.xyz/logo/SBS골프.png",SBS골프
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://tvlive.sbs.co.kr/sbsgolf/sbsgolf1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTUzOTU2MjMsInBhdGgiOiIvc2JzZ29sZjEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIyYmEwZDM5MC00Y2ZkLTQ0NmQtYjdlYS1kOTg0ZTE3MTY5OWIiLCJpYXQiOjE3OTUzODg0MjN9.IVMI55iFTH6yI805ETX0f0yDT8oueCrIsLvima_hPm4
+https://tvlive.sbs.co.kr/sbsgolf/sbsgolf1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTU0MDI4MjMsInBhdGgiOiIvc2JzZ29sZjEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIzNGNkYzEyMC02NDg5LTRkNzgtOGFhYS1iYzFiNjk4NzhmMWQiLCJpYXQiOjE3OTUzOTU2MjN9.sAlj16TTZzY_w1f4VgKhQCEgZfDoI9aAHqI3HrL_tkk
+
 
 
 
@@ -884,7 +927,8 @@ https://tvlive.sbs.co.kr/sbsgolf/sbsgolf1.stream/playlist.m3u8?token=eyJ0eXAiOiJ
 
 #EXTINF:-1 tvg-id="815006.naver" tvg-logo="https://backup.760515.xyz/logo/SBS Golf2.png",SBS Golf2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf21.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTUzOTU2MjYsInBhdGgiOiIvc2JzZ29sZjIxLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiZWI5NDNkMDctN2Q0Ni00YWFmLTgwNzctY2U4MTAzMmVhY2RlIiwiaWF0IjoxNzk1Mzg4NDI2fQ.Rc76nCWGWKbgo7QFPRyvIP_otV8_D9-IO0KhH99fINQ
+https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf21.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTU0MDI4MjcsInBhdGgiOiIvc2JzZ29sZjIxLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiNjcwYzg3N2QtOGVlZS00NWMxLTgxYTUtZTYxZGZlYjgzODdiIiwiaWF0IjoxNzk1Mzk1NjI3fQ.A-wKg41F_g0EbI93F2iEgyyaCkI5uy2A06q7vV6ifn0
+
 
 
 
@@ -905,7 +949,8 @@ https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf21.stream/playlist.m3u8?token=eyJ0eXAiO
 
 #EXTINF:-1 tvg-id="814863.naver" tvg-logo="https://backup.760515.xyz/logo/SBS스포츠.png",SBS스포츠
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://tvlive.sbs.co.kr/sbsespn/sbsespn1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTUzNjY4MjEsInBhdGgiOiIvc2JzZXNwbjEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJjNjQzZWU0OC0yMzk2LTQ0YmUtODllOS1kNjU3ZTVjMmEwYjIiLCJpYXQiOjE3OTUzNTk2MjF9.GUQLQcNMJIIHzDddB-hcCZgVL3pSu6hqKBms3grATFs
+https://tvlive.sbs.co.kr/sbsespn/sbsespn1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTU0MDI4MjAsInBhdGgiOiIvc2JzZXNwbjEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJlZDliMTI0NC0zMGRhLTQxMmYtOTU1Zi03NzRjMjEyNGMzZTYiLCJpYXQiOjE3OTUzOTU2MjB9.siveiuNhTcQXzlPiY4dlktHIqWWSqK4ciEJuYvVTHO4
+
 
 
 
@@ -926,7 +971,8 @@ https://tvlive.sbs.co.kr/sbsespn/sbsespn1.stream/playlist.m3u8?token=eyJ0eXAiOiJ
 
 #EXTINF:-1 tvg-id="814910.naver" tvg-logo="https://backup.760515.xyz/logo/SBS Biz.png",SBS Biz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://tvlive.sbs.co.kr/sbscnbc/sbscnbc1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTUzOTU2MDksInBhdGgiOiIvc2JzY25iYzEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI5ZTIyYjkwNS1hMmEwLTQyZmQtYTIxOC0yYTU3NjU2ZmVlMzgiLCJpYXQiOjE3OTUzODg0MDl9.lCd2mSAZ6wQSYa_A6xbW0aAlFtSGJfQMOLU9VIgG4rY
+https://tvlive.sbs.co.kr/sbscnbc/sbscnbc1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTU0MDI4MDksInBhdGgiOiIvc2JzY25iYzEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI1YWY4ZDY0My00NWE0LTRhYzctYThjNi01ZjVmNTFjYTI3ZDIiLCJpYXQiOjE3OTUzOTU2MDl9.BU6KqZkrXGEaGcKBkRH5i8BxL6ORAwEyQelS-KjbQkw
+
 
 
 
@@ -966,9 +1012,11 @@ https://every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist
 
 
 
+
 #EXTINF:-1 tvg-id="814870.naver" tvg-logo="https://backup.760515.xyz/logo/MBC M.png",MBC M
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://mbcmottsd.imbc.com/plus_mbcm_sd/_definst_/mbcm_sd.stream/chunklist.m3u8?_lsu_sa_=63319110039B3AF40546A53B3631A348F5FB3485A201322E35B076a806D3369627a5531436226940B0C234911Bb5C1B76C6971C098D80318044C62636279129EFBCF893007FC5C593FC2DD76E41FFC86E8ABE783C7CC5CFA20EBE44B7FA4897DB4366D144C23845F02F91A031DD4ECE4&v=3
+
 
 
 
@@ -1008,9 +1056,11 @@ https://mbconottsd.imbc.com/plus_mbcon_sd/_definst_/mbcon_sd.stream/chunklist.m3
 
 
 
+
 #EXTINF:-1 tvg-id="815052.naver" tvg-logo="https://backup.760515.xyz/logo/MBCNET.png",MBCNET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://m-mbcnetlive.imbc.com/mbcnet_onair/_definst_/mbcnet_500k.stream/chunklist.m3u8?_lsu_sa_=60A1991EA35C33B4C64E15173061864035973865000E8216303053a3160C36B666a6C3C43792D04DB033367152bB41985634E1A3F52A79313F6A77D0B444D8B6E78226F4F72413837BE609CA7D92E868448B72383635125D1E1CFDA5E3DEE24BB815E7E9769FB3D7D975046A690234D90970A37577079C25D53C2D2A95962864&v=3
+
 
 
 
@@ -1050,9 +1100,11 @@ https://epg.pw/stream/f71b00bffdc25476502479870351e7f801879a9b7bbce6bc77332b7f8b
 
 
 
+
 #EXTINF:-1 tvg-id="kr046",TBSTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+
 
 
 
@@ -1092,9 +1144,11 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="kr048" tvg-logo="https://backup.760515.xyz/logo/농협TV.png",농협TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+
 
 
 
@@ -1134,9 +1188,11 @@ https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="kr050" tvg-logo="https://backup.760515.xyz/logo/방송대학TV.png",방송대학TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+
 
 
 
@@ -1176,9 +1232,11 @@ https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="814967.naver" tvg-logo="https://backup.760515.xyz/logo/EBS+1.png",EBS+1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+
 
 
 
@@ -1218,9 +1276,11 @@ https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="814963.naver" tvg-logo="https://backup.760515.xyz/logo/EBS English.png",EBS English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
 
 
 
@@ -1260,9 +1320,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 
 
 
+
 #EXTINF:-1 tvg-id="kr056",한국영화2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+
 
 
 
@@ -1302,9 +1364,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
 
 
 
+
 #EXTINF:-1 tvg-id="kr058" tvg-logo="https://i.imgur.com/dtfiG9k.png",Arirang Radio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
 
 
 
@@ -1344,9 +1408,11 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 
 
 
+
 #EXTINF:-1 tvg-id="케이블 아리랑 TV.daum-3" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=111
+
 
 
 
@@ -1386,9 +1452,11 @@ http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="kr062" tvg-logo="https://i.imgur.com/sOoS7RQ.png",BTN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 
 
 
@@ -1428,9 +1496,11 @@ https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="kr064" tvg-logo="https://i.imgur.com/OYmOL20.png",CJ OnStyle+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+
 
 
 
@@ -1471,9 +1541,11 @@ https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="애니박스.kr" tvg-logo="https://pjytv.760515.xyz/logo/ANIBOX.png",ANIBOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/ANIBOX-playlist.m3u8
+
 
 
 
@@ -1513,9 +1585,11 @@ https://backup.760515.xyz/playlist/%EC%95%A0%EB%8B%88%EB%A7%A5%EC%8A%A4-playlist
 
 
 
+
 #EXTINF:-1 tvg-id="C06941.tving" tvg-logo="https://pjytv.760515.xyz/logo/투니버스.png",투니버스
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/%ED%88%AC%EB%8B%88%EB%B2%84%EC%8A%A4-playlist.m3u8
+
 
 
 
@@ -1555,9 +1629,11 @@ https://tvlive.sbs.co.kr/sbskpop/sbskpop1.stream/playlist.m3u8?token=eyJ0eXAiOiJ
 
 
 
+
 #EXTINF:-1 tvg-id="2438226.naver-2" tvg-logo="https://i.imgur.com/62oo8Bx.png",EBS Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
 
 
 
@@ -1597,9 +1673,11 @@ https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="kr068" tvg-logo="https://i.imgur.com/yzwtMOC.png",GCN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+
 
 
 
@@ -1639,9 +1717,11 @@ https://etv.publichs.com/live5.stream/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="kr070" tvg-logo="https://i.imgur.com/ETPQwui.png",GS My Shop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+
 
 
 
@@ -1681,9 +1761,11 @@ https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="kr072" tvg-logo="https://i.imgur.com/Ey7Htm8.png",Gugak TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+
 
 
 
@@ -1723,9 +1805,11 @@ http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="kr074" tvg-logo="https://i.imgur.com/JM4rxGU.png",HLAJ-DTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+
 
 
 
@@ -1765,9 +1849,11 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="kr076" tvg-logo="https://i.imgur.com/lthyx2P.png",HLAN-DTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+
 
 
 
@@ -1807,9 +1893,11 @@ http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="kr078" tvg-logo="https://i.imgur.com/3VSuYsn.png",HLAT-DTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+
 
 
 
@@ -1849,9 +1937,11 @@ http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="kr080" tvg-logo="https://i.imgur.com/ABdmZMc.png",HLCG-DTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+
 
 
 
@@ -1891,9 +1981,11 @@ https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="kr082" tvg-logo="https://i.imgur.com/LlYQR8m.png",HLCT-DTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+
 
 
 
@@ -1933,9 +2025,11 @@ https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="kr085" tvg-logo="https://i.imgur.com/byss0Ld.png",HLDQ-DTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+
 
 
 
@@ -1975,9 +2069,11 @@ http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="kr087" tvg-logo="https://i.imgur.com/iAz0Psw.png",HLKJ-DTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 http://123.140.197.22/stream/1/play.m3u8
+
 
 
 
@@ -2017,9 +2113,11 @@ https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u
 
 
 
+
 #EXTINF:-1 tvg-id="kr089" tvg-logo="https://i.imgur.com/NJpECmq.png",Hyundai Home Shopping
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+
 
 
 
@@ -2059,9 +2157,11 @@ https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playli
 
 
 
+
 #EXTINF:-1 tvg-id="kr091" tvg-logo="https://i.imgur.com/IHkZpaI.png",KCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+
 
 
 
@@ -2101,9 +2201,11 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="kr093" tvg-logo="https://i.imgur.com/dJeNehc.png",Lotte Home Shopping
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+
 
 
 
@@ -2143,9 +2245,11 @@ https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="815052.naver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/960px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png",MBC Net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 http://mytv.dothome.co.kr/ch/catv/28.php
+
 
 
 
@@ -2185,9 +2289,11 @@ https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
 
 
 
+
 #EXTINF:-1 tvg-id="kr097" tvg-logo="https://i.imgur.com/pOSroOE.png",NBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+
 
 
 
@@ -2227,9 +2333,11 @@ http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playli
 
 
 
+
 #EXTINF:-1 tvg-id="kr099" tvg-logo="https://i.imgur.com/Hq3yjqA.png",Shinsegae TV Shopping
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+
 
 
 
@@ -2269,9 +2377,11 @@ https://live.shoppingntmall.com/live/10011.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="kr101" tvg-logo="https://i.imgur.com/hfXjVJd.png",W Shopping
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+
 
 
 
@@ -2310,9 +2420,11 @@ https://backup.760515.xyz/playlist/YTN2-playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://pjytv.760515.xyz/logo/YTN사이언스.png",YTN사이언스
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/YTN%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4-playlist.m3u8
+
 
 
 
@@ -2350,9 +2462,11 @@ https://backup.760515.xyz/playlist/EBS1-playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://pjytv.760515.xyz/logo/국회방송(NATV).png",국회방송(NATV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/%EA%B5%AD%ED%9A%8C%EB%B0%A9%EC%86%A1(NATV)-playlist.m3u8
+
 
 
 
@@ -2389,6 +2503,7 @@ https://dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3
 
 
 
+
 #EXTINF:-1 tvg-id="" tvg-logo="",복지TV
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 
@@ -2408,8 +2523,10 @@ https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/pl
 
 
 
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://backup.760515.xyz/logo/문화유산채널.png",문화유산채널
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
+
 
 
 
