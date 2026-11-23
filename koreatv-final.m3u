@@ -224,8 +224,9 @@ https://backup.760515.xyz/playlist/tvN-playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-id="TV조선.kr" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN.png",TV CHOSUN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://onaircdn.tvchosun.com/origin1/_definst_/tvchosun_s3/playlist.m3u8
 
 
 
